@@ -1,0 +1,15 @@
+（1）设计有setAll功能的哈希表
+1. unordered_map 与 map 的内存布局。
+2. unordered_map 与 map 中键key唯一，且不能够修改，key决定了位置。
+3. 优先级队列 priority_queue 的内存布局 与 本质（动态地获取极值）。
+4. set 和 unordered_set 的内存布局 与 对应的map一样，且关于set和unordered_set的内存布局都是不能够修改的。
+5. set、unordered_set、map、unordered_map操作总结汇总
+6. C++中STL的命名代表了“操作方式”和数据结构特性的不同（易混点）
+7. map的插入和更新操作区分开，推荐用 map[key]（既包含插入也包含更新），不用map.insert( )（因为不包含更新）。
+8.关于count具体含义 -  把 put 和 setAll 都看成是一个动作 触发count++操作 与 把 put看成一个动作，setAll看成一个截取拍照操作的区别。 
+
+（2）实现LRU结构
+
+1. 嵌套类的代码结构要学会使用。命名空间 与 嵌套类 的关系，即 Graph : : Node，命名空间Graph为实现的一个类class Graph，Node为这个类里面定义的又一个类class Node或者结构体struct Node。
+
+2.  
