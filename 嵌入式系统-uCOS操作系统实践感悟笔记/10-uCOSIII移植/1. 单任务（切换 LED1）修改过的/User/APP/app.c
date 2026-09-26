@@ -1,0 +1,184 @@
+/*
+*********************************************************************************************************
+*                                              EXAMPLE CODE
+*
+*                          (c) Copyright 2003-2013; Micrium, Inc.; Weston, FL
+*
+*               All rights reserved.  Protected by international copyright laws.
+*               Knowledge of the source code may NOT be used to develop a similar product.
+*               Please help us continue to provide the Embedded community with the finest
+*               software available.  Your honesty is greatly appreciated.
+*********************************************************************************************************
+*/
+
+/*
+*********************************************************************************************************
+*
+*                                            EXAMPLE CODE
+*
+*                                     ST Microelectronics STM32
+*                                              on the
+*
+*                                     Micrium uC-Eval-STM32F107
+*                                        Evaluation Board
+*
+* Filename      : app.c
+* Version       : V1.00
+* Programmer(s) : EHS
+*                 DC
+*********************************************************************************************************
+*/
+
+/*
+*********************************************************************************************************
+*                                             INCLUDE FILES
+*********************************************************************************************************
+*/
+
+#include <includes.h>
+
+
+/*
+*********************************************************************************************************
+*                                            LOCAL DEFINES
+*********************************************************************************************************
+*/
+
+/*
+*********************************************************************************************************
+*                                                 TCB
+*********************************************************************************************************
+*/
+
+static  OS_TCB   AppTaskStartTCB;
+
+
+/*
+*********************************************************************************************************
+*                                                STACKS
+*********************************************************************************************************
+*/
+
+static  CPU_STK  AppTaskStartStk[APP_TASK_START_STK_SIZE];
+
+
+/*
+*********************************************************************************************************
+*                                         FUNCTION PROTOTYPES
+*********************************************************************************************************
+*/
+
+static  void  AppTaskStart  (void *p_arg);
+
+
+/*
+*********************************************************************************************************
+*                                                main()
+*
+* Description : This is the standard entry point for C code.  It is assumed that your code will call
+*               main() once you have performed all necessary initialization.
+*
+* Arguments   : none
+*
+* Returns     : none
+*********************************************************************************************************
+*/
+
+int  main (void)
+{
+    OS_ERR  err;
+
+
+    OSInit(&err);                                               /* Init uC/OS-III.                                      */
+
+    OSTaskCreate((OS_TCB     *)&AppTaskStartTCB,                /* Create the start task                                */
+                 (CPU_CHAR   *)"App Task Start",
+                 (OS_TASK_PTR ) AppTaskStart,
+                 (void       *) 0,
+                 (OS_PRIO     ) APP_TASK_START_PRIO,
+                 (CPU_STK    *)&AppTaskStartStk[0],
+                 (CPU_STK_SIZE) APP_TASK_START_STK_SIZE / 10,
+                 (CPU_STK_SIZE) APP_TASK_START_STK_SIZE,
+                 (OS_MSG_QTY  ) 5u,
+                 (OS_TICK     ) 0u,
+                 (void       *) 0,
+                 (OS_OPT      )(OS_OPT_TASK_STK_CHK | OS_OPT_TASK_STK_CLR),
+                 (OS_ERR     *)&err);
+
+    OSStart(&err);                                              /* Start multitasking (i.e. give control to uC/OS-III). */
+		
+		
+}
+
+
+/*
+*********************************************************************************************************
+*                                          STARTUP TASK
+*
+* Description : This is an example of a startup task.  As mentioned in the book's text, you MUST
+*               initialize the ticker only once multitasking has started.
+*
+* Arguments   : p_arg   is the argument passed to 'AppTaskStart()' by 'OSTaskCreate()'.
+*
+* Returns     : none
+*
+* Notes       : 1) The first line of code is used to prevent a compiler warning because 'p_arg' is not
+*                  used.  The compiler should not generate any code for this statement.
+*********************************************************************************************************
+*/
+
+static  void  AppTaskStart (void *p_arg)
+{ 
+	  int time=4000000 *2;  //4000000*2大约就是1s
+    CPU_INT32U  cpu_clk_freq;
+    CPU_INT32U  cnts;
+    OS_ERR      err;
+
+
+   (void)p_arg;
+
+    BSP_Init();                                                 /* Initialize BSP functions                             */
+    CPU_Init();
+
+    cpu_clk_freq = BSP_CPU_ClkFreq();                           /* Determine SysTick reference freq.                    */
+    cnts = cpu_clk_freq / (CPU_INT32U)OSCfg_TickRate_Hz;        /* Determine nbr SysTick increments                     */
+    OS_CPU_SysTickInit(cnts);                                   /* Init uC/OS periodic time src (SysTick).              */
+
+    Mem_Init();                                                 /* Initialize Memory Management Module                  */
+
+#if OS_CFG_STAT_TASK_EN > 0u
+    OSStatTaskCPUUsageInit(&err);                               /* Compute CPU capacity with no task running            */
+#endif
+
+    CPU_IntDisMeasMaxCurReset();
+
+   
+    while (DEF_TRUE) 
+		{                                          /* Task body, always written as an infinite loop.       */
+			macLED1_TOGGLE ();  //可以改为macLED1_ON()
+ 
+			
+			while(time--);   
+			time=4000000 *2;
+			
+			macLED1_TOGGLE ();  //可以改为macLED1_OFF()
+			
+			
+			while(time--); 
+			time=4000000 *2;
+    }
+/*
+测试的结果：
+macLED1是为一个红灯。
+
+这个红灯由于是内置在板子中的，相当于是板子的一台设备，既然是设备的就必然会有驱动程序，这里为设备macLED_1设置的驱动程序所提供的系统调用有3个，
+用户在自己的程序中利用这3个系统调用就能够控制设备macLED_1完成相应的操作了，这3个系统调用控制macLED_1完成的操作分别是：
+macLED1_TOGGLE（）：进行亮灭的切换，如果红灯原来是亮的，则切换到灭的，如果红灯原来是灭的，则切换到亮的。
+macLED1_ON（）：点亮红灯。
+macLED_OFF（）：熄灭红灯。
+*/
+		
+}
+
+
+

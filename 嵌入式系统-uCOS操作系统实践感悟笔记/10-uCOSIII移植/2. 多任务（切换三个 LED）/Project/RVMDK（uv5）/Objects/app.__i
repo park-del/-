@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Libraries\CMSIS -I..\..\Libraries\FWlib\inc -I..\..\User -I..\..\User\APP -I..\..\User\BSP -I..\..\User\BSP\led -I..\..\User\uC-CPU -I..\..\User\uC-CPU\ARM-Cortex-M3\RealView -I..\..\User\uC-LIB -I..\..\User\uCOS-III\Source -I..\..\User\uCOS-III\Ports\ARM-Cortex-M3\Generic\RealView
+-I "D:\大三上学习文件\嵌入式操作系统\新建文件夹\2. 多任务（切换三个 LED）\Project\RVMDK（uv5）\RTE"
+-I D:\keil\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+-I D:\keil\ARM\CMSIS\Include
+-D__UVISION_VERSION="515" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER
+-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d "..\..\User\APP\app.c"

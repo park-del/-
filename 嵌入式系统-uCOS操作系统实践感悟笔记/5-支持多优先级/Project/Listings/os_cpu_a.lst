@@ -1,0 +1,376 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         
+    2 00000000         ;*******************************************************
+                       *************************************************
+    3 00000000         ;                                            È«¾Ö±äÁ¿&º¯
+                       Êý
+    4 00000000         ;*******************************************************
+                       *************************************************
+    5 00000000                 IMPORT           OSTCBCurPtr ; Íâ²¿ÎÄ¼þÒýÈËµÄ²Î¿
+                                                            ¼
+    6 00000000                 IMPORT           OSTCBHighRdyPtr
+    7 00000000                 IMPORT           OSPrioCur
+    8 00000000                 IMPORT           OSPrioHighRdy
+    9 00000000                 EXPORT           OSStartHighRdy 
+                                                            ; ¸ÃÎÄ¼þ¶¨ÒåµÄº¯Êý
+   10 00000000                 EXPORT           PendSV_Handler
+   11 00000000         
+   12 00000000         ;*******************************************************
+                       *************************************************
+   13 00000000         ;                                               ³£Á¿
+   14 00000000         ;*******************************************************
+                       *************************************************
+   15 00000000         ;-------------------------------------------------------
+                       -------------------------------------------------
+   16 00000000         ;ÓÐ¹ØÄÚºËÍâÉè¼Ä´æÆ÷¶¨Òå¿É²Î¿¼¹Ù·½ÎÄµµ£ºSTM32F10xxx Corte
+                       x-M3 programming manual
+   17 00000000         ;ÏµÍ³¿ØÖÆ¿éÍâÉèSCBµØÖ··¶Î§£º0xE000ED00-0xE000ED3F
+   18 00000000         ;-------------------------------------------------------
+                       -------------------------------------------------
+   19 00000000 E000ED04 
+                       NVIC_INT_CTRL
+                               EQU              0xE000ED04  ; ÖÐ¶Ï¿ØÖÆ¼°×´Ì¬¼Ä´
+                                                            æÆ÷ SCB_ICSR¡£
+   20 00000000 E000ED22 
+                       NVIC_SYSPRI14
+                               EQU              0xE000ED22  ; ÏµÍ³ÓÅÏÈ¼¶¼Ä´æÆ÷ 
+                                                            SCB_SHPR3£ºbit16~23
+                                                            
+   21 00000000 000000FF 
+                       NVIC_PENDSV_PRI
+                               EQU              0xFF        ; PendSV ÓÅÏÈ¼¶µÄÖµ
+                                                            (×îµÍ)¡£
+   22 00000000 10000000 
+                       NVIC_PENDSVSET
+                               EQU              0x10000000  ; ´¥·¢PendSVÒì³£µÄÖ
+                                                            µ Bit28£ºPENDSVSET¡
+                                                            £
+   23 00000000         
+   24 00000000         ;*******************************************************
+                       *************************************************
+   25 00000000         ;                                          ´úÂë²úÉúÖ¸Áî
+   26 00000000         ;*******************************************************
+                       *************************************************
+   27 00000000                 PRESERVE8
+   28 00000000                 THUMB
+   29 00000000         
+   30 00000000                 AREA             CODE, CODE, READONLY
+   31 00000000         
+   32 00000000         ;*******************************************************
+                       *************************************************
+
+
+
+ARM Macro Assembler    Page 2 
+
+
+   33 00000000         ;                                          ¿ªÊ¼µÚÒ»´ÎÉÏÏ
+                       ÂÎÄÇÐ»»
+   34 00000000         ; 1¡¢ÅäÖÃPendSVÒì³£µÄÓÅÏÈ¼¶Îª×îµÍ
+   35 00000000         ; 2¡¢ÔÚ¿ªÊ¼µÚÒ»´ÎÉÏÏÂÎÄÇÐ»»Ö®Ç°£¬ÉèÖÃpsp=0
+   36 00000000         ; 3¡¢´¥·¢PendSVÒì³££¬¿ªÊ¼ÉÏÏÂÎÄÇÐ»»
+   37 00000000         ;*******************************************************
+                       *************************************************
+   38 00000000         OSStartHighRdy
+                               PROC
+   39 00000000 4814            LDR              R0, = NVIC_SYSPRI14 ; ÉèÖÃ  Pen
+                                                            dSV Òì³£ÓÅÏÈ¼¶Îª×îµ
+                                                            Í
+   40 00000002 F04F 01FF       LDR              R1, = NVIC_PENDSV_PRI
+   41 00000006 7001            STRB             R1, [R0]
+   42 00000008         
+   43 00000008 2000            MOVS             R0, #0      ; ÉèÖÃpspµÄÖµÎª0£¬¿
+                                                            ªÊ¼µÚÒ»´ÎÉÏÏÂÎÄÇÐ»»
+                                                            
+   44 0000000A F380 8809       MSR              PSP, R0
+   45 0000000E         
+   46 0000000E 4812            LDR              R0, =NVIC_INT_CTRL 
+                                                            ; ´¥·¢PendSVÒì³£
+   47 00000010 F04F 5180       LDR              R1, =NVIC_PENDSVSET
+   48 00000014 6001            STR              R1, [R0]
+   49 00000016         
+   50 00000016 B662            CPSIE            I           ; ¿ªÖÐ¶Ï
+   51 00000018         
+   52 00000018         OSStartHang
+   53 00000018 E7FE            B                OSStartHang ; ³ÌÐòÓ¦ÓÀÔ¶²»»áÔËÐ
+                                                            Ðµ½ÕâÀï 
+   54 0000001A         
+   55 0000001A                 ENDP
+   56 0000001A         ;*******************************************************
+                       *************************************************
+   57 0000001A         ;                                          PendSVHandler
+                       Òì³£
+   58 0000001A         ;*******************************************************
+                       *************************************************
+   59 0000001A         PendSV_Handler
+                               PROC
+   60 0000001A         ; ÈÎÎñµÄ±£´æ£¬¼´°ÑCPU¼Ä´æÆ÷µÄÖµ´æ´¢µ½ÈÎÎñµÄ¶ÑÕ»ÖÐ 
+   61 0000001A B672            CPSID            I           ; ¹ØÖÐ¶Ï£¬NMIºÍHard
+                                                            Fault³ýÍâ£¬·ÀÖ¹ÉÏÏÂ
+                                                            ÎÄÇÐ»»±»ÖÐ¶Ï 
+   62 0000001C F3EF 8009       MRS              R0, PSP     ; ½«pspµÄÖµ¼ÓÔØµ½R0
+                                                            
+   63 00000020 B120            CBZ              R0, OS_CPU_PendSVHandler_nosave
+ 
+                                                            ; ÅÐ¶ÏR0£¬Èç¹ûÖµÎª0
+                                                            ÔòÌø×ªµ½OS_CPU_Pend
+                                                            SVHandler_nosave
+   64 00000022         ; ½øÐÐµÚÒ»´ÎÈÎÎñÇÐ»»µÄÊ±ºò£¬R0¿Ï¶¨Îª0
+   65 00000022         
+   66 00000022         ; ÔÚ½øÈëPendSVÒì³£µÄÊ±ºò£¬µ±Ç°CPUµÄxPSR£¬PC£¨ÈÎÎñÈë¿ÚµØÖ
+                       ·£©£¬R14£¬R12£¬R3£¬R2£¬R1£¬R0»á×Ô¶¯´æ´¢µ½µ±Ç°ÈÎÎñ¶ÑÕ»£¬Í
+                       ¬Ê±µÝ¼õPSPµÄÖµ
+   67 00000022 E920 0FF0       STMDB            R0!, {R4-R11} ; ÊÖ¶¯´æ´¢CPU¼Ä´æ
+                                                            Æ÷R4-R11µÄÖµµ½µ±Ç°È
+                                                            ÎÎñµÄ¶ÑÕ»
+
+
+
+ARM Macro Assembler    Page 3 
+
+
+   68 00000026         
+   69 00000026 490D            LDR              R1, = OSTCBCurPtr ; ¼ÓÔØ OSTCBC
+                                                            urPtr Ö¸ÕëµÄµØÖ·µ½R
+                                                            1£¬ÕâÀïLDRÊôÓÚÎ±Ö¸Á
+                                                            î
+   70 00000028 6809            LDR              R1, [R1]    ; ¼ÓÔØ OSTCBCurPtr 
+                                                            Ö¸Õëµ½R1£¬ÕâÀïLDRÊô
+                                                            ÓÚARMÖ¸Áî
+   71 0000002A 6008            STR              R0, [R1]    ; ´æ´¢R0µÄÖµµ½ OSTC
+                                                            BCurPtr->OSTCBStkPt
+                                                            r£¬Õâ¸öÊ±ºòR0´æµÄÊÇ
+                                                            ÈÎÎñ¿ÕÏÐÕ»µÄÕ»¶¥
+   72 0000002C         
+   73 0000002C         ; ÈÎÎñµÄÇÐ»»£¬¼´°ÑÏÂÒ»¸öÒªÔËÐÐµÄÈÎÎñµÄ¶ÑÕ»ÄÚÈÝ¼ÓÔØµ½CPU¼
+                       Ä´æÆ÷ÖÐ
+   74 0000002C         OS_CPU_PendSVHandler_nosave
+   75 0000002C         
+   76 0000002C         ; OSPrioCur   = OSPrioHighRdy;
+   77 0000002C 480C            LDR              R0, =OSPrioCur
+   78 0000002E 490D            LDR              R1, =OSPrioHighRdy
+   79 00000030 780A            LDRB             R2, [R1]
+   80 00000032 7002            STRB             R2, [R0]
+   81 00000034         
+   82 00000034         ; OSTCBCurPtr = OSTCBHighRdyPtr;
+   83 00000034 4809            LDR              R0, = OSTCBCurPtr ; ¼ÓÔØ OSTCBC
+                                                            urPtr Ö¸ÕëµÄµØÖ·µ½R
+                                                            0£¬ÕâÀïLDRÊôÓÚÎ±Ö¸Á
+                                                            î
+   84 00000036 490C            LDR              R1, = OSTCBHighRdyPtr ; ¼ÓÔØ OS
+                                                            TCBHighRdyPtr Ö¸Õëµ
+                                                            ÄµØÖ·µ½R1£¬ÕâÀïLDRÊ
+                                                            ôÓÚÎ±Ö¸Áî
+   85 00000038 680A            LDR              R2, [R1]    ; ¼ÓÔØ OSTCBHighRdy
+                                                            Ptr Ö¸Õëµ½R2£¬ÕâÀïL
+                                                            DRÊôÓÚARMÖ¸Áî
+   86 0000003A 6002            STR              R2, [R0]    ; ´æ´¢ OSTCBHighRdy
+                                                            Ptr µ½ OSTCBCurPtr
+   87 0000003C         
+   88 0000003C 6810            LDR              R0, [R2]    ; ¼ÓÔØ OSTCBHighRdy
+                                                            Ptr µ½ R0
+   89 0000003E E8B0 0FF0       LDMIA            R0!, {R4-R11} ; ¼ÓÔØÐèÒªÊÖ¶¯±£´
+                                                            æµÄÐÅÏ¢µ½CPU¼Ä´æÆ÷R
+                                                            4-R11
+   90 00000042         
+   91 00000042 F380 8809       MSR              PSP, R0     ; ¸üÐÂPSPµÄÖµ£¬Õâ¸ö
+                                                            Ê±ºòPSPÖ¸ÏòÏÂÒ»¸öÒª
+                                                            Ö´ÐÐµÄÈÎÎñµÄ¶ÑÕ»µÄÕ
+                                                            »µ×£¨Õâ¸öÕ»µ×ÒÑ¾­¼Ó
+                                                            ÉÏ¸Õ¸ÕÊÖ¶¯¼ÓÔØµ½CPU
+                                                            ¼Ä´æÆ÷R4-R11µÄÆ«ÒÆ£
+                                                            ©
+   92 00000046 F04E 0E04       ORR              LR, LR, #0x04 ; È·±£Òì³£·µ»ØÊ¹Ó
+                                                            ÃµÄ¶ÑÕ»Ö¸ÕëÊÇPSP£¬¼
+                                                            ´LR¼Ä´æÆ÷µÄÎ»2ÒªÎª1
+                                                            
+   93 0000004A B662            CPSIE            I           ; ¿ªÖÐ¶Ï
+   94 0000004C 4770            BX               LR          ; Òì³£·µ»Ø£¬Õâ¸öÊ±º
+                                                            òÈÎÎñ¶ÑÕ»ÖÐµÄÊ£ÏÂÄÚ
+                                                            ÈÝ½«»á×Ô¶¯¼ÓÔØµ½xPS
+
+
+
+ARM Macro Assembler    Page 4 
+
+
+                                                            R£¬PC£¨ÈÎÎñÈë¿ÚµØÖ·
+                                                            £©£¬R14£¬R12£¬R3£¬R
+                                                            2£¬R1£¬R0£¨ÈÎÎñµÄÐÎ
+                                                            ²Î£©
+   95 0000004E         ; Í¬Ê±PSPµÄÖµÒ²½«¸üÐÂ£¬¼´Ö¸ÏòÈÎÎñ¶ÑÕ»µÄÕ»¶¥¡£ÔÚSTM32ÖÐ£¬
+                       ¶ÑÕ»ÊÇÓÉ¸ßµØÖ·ÏòµÍµØÖ·Éú³¤µÄ¡£
+   96 0000004E         
+   97 0000004E BF00            NOP                          ; ÎªÁË»ã±àÖ¸Áî¶ÔÆë£
+                                                            ¬²»È»»áÓÐ¾¯¸æ
+   98 00000050         
+   99 00000050                 ENDP
+  100 00000050         
+  101 00000050         ;*******************************************************
+                       *************************************************
+  102 00000050         ;                                                ¹ØÖÐ¶Ï
+  103 00000050         ; NMI ºÍÓ²FAULT ³ýÍâ
+  104 00000050         ;*******************************************************
+                       *************************************************
+  105 00000050         AllIntDis
+                               PROC
+  106 00000050 B672            CPSID            I
+  107 00000052         
+  108 00000052                 ENDP
+  109 00000052         
+  110 00000052 BF00            NOP                          ; ÎªÁË»ã±àÖ¸Áî¶ÔÆë£
+                                                            ¬²»È»»áÓÐ¾¯¸æ
+  111 00000054                 END                          ; »ã±àÎÄ¼þ½áÊø
+              E000ED22 
+              E000ED04 
+              00000000 
+              00000000 
+              00000000 
+              00000000 
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
+ork --depend=.\objects\os_cpu_a.d -o.\objects\os_cpu_a.o -ID:\´óÈýÉÏÑ§Ï°ÎÄ¼þ\F0
+7Ö§³Ö¶àÓÅÏÈ¼¶£¨¾ÍÐø±íÊµÑé¹²ÓÃ£©\Project\RTE -ID:\keil\ARM\PACK\ARM\CMSIS\4.3.0\
+CMSIS\Include -ID:\keil\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include --pr
+edefine="__EVAL SETA 1" --predefine="__UVISION_VERSION SETA 515" --predefine="_
+RTE_ SETA 1" --predefine="ARMCM3 SETA 1" --list=.\listings\os_cpu_a.lst ..\User
+\uCOS-III\Ports\os_cpu_a.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+AllIntDis 00000050
+
+Symbol: AllIntDis
+   Definitions
+      At line 105 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      None
+Comment: AllIntDis unused
+CODE 00000000
+
+Symbol: CODE
+   Definitions
+      At line 30 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      None
+Comment: CODE unused
+OSStartHang 00000018
+
+Symbol: OSStartHang
+   Definitions
+      At line 52 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 53 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: OSStartHang used once
+OSStartHighRdy 00000000
+
+Symbol: OSStartHighRdy
+   Definitions
+      At line 38 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 9 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: OSStartHighRdy used once
+OS_CPU_PendSVHandler_nosave 0000002C
+
+Symbol: OS_CPU_PendSVHandler_nosave
+   Definitions
+      At line 74 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 63 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: OS_CPU_PendSVHandler_nosave used once
+PendSV_Handler 0000001A
+
+Symbol: PendSV_Handler
+   Definitions
+      At line 59 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 10 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: PendSV_Handler used once
+6 symbols
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Absolute symbols
+
+NVIC_INT_CTRL E000ED04
+
+Symbol: NVIC_INT_CTRL
+   Definitions
+      At line 19 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 46 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: NVIC_INT_CTRL used once
+NVIC_PENDSVSET 10000000
+
+Symbol: NVIC_PENDSVSET
+   Definitions
+      At line 22 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 47 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: NVIC_PENDSVSET used once
+NVIC_PENDSV_PRI 000000FF
+
+Symbol: NVIC_PENDSV_PRI
+   Definitions
+      At line 21 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 40 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: NVIC_PENDSV_PRI used once
+NVIC_SYSPRI14 E000ED22
+
+Symbol: NVIC_SYSPRI14
+   Definitions
+      At line 20 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 39 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: NVIC_SYSPRI14 used once
+4 symbols
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+External symbols
+
+OSPrioCur 00000000
+
+Symbol: OSPrioCur
+   Definitions
+      At line 7 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 77 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: OSPrioCur used once
+OSPrioHighRdy 00000000
+
+Symbol: OSPrioHighRdy
+   Definitions
+      At line 8 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 78 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: OSPrioHighRdy used once
+OSTCBCurPtr 00000000
+
+Symbol: OSTCBCurPtr
+   Definitions
+      At line 5 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 69 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+      At line 83 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+
+OSTCBHighRdyPtr 00000000
+
+Symbol: OSTCBHighRdyPtr
+   Definitions
+      At line 6 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+   Uses
+      At line 84 in file ..\User\uCOS-III\Ports\os_cpu_a.s
+Comment: OSTCBHighRdyPtr used once
+4 symbols
+350 symbols in table

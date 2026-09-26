@@ -1,0 +1,93 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         
+    2 00000000         ;*******************************************************
+                       *************************************************
+    3 00000000         ;                                           PUBLIC FUNCT
+                       IONS
+    4 00000000         ;*******************************************************
+                       *************************************************
+    5 00000000         
+    6 00000000                 EXPORT           CPU_IntDis
+    7 00000000                 EXPORT           CPU_IntEn
+    8 00000000         
+    9 00000000         
+   10 00000000         
+   11 00000000         ;*******************************************************
+                       *************************************************
+   12 00000000         ;                                      代码产生指令
+   13 00000000         ;*******************************************************
+                       *************************************************
+   14 00000000         
+   15 00000000                 AREA             |.text|, CODE, READONLY, ALIGN=
+2
+   16 00000000                 THUMB
+   17 00000000                 REQUIRE8
+   18 00000000                 PRESERVE8
+   19 00000000         
+   20 00000000         
+   21 00000000         ;*******************************************************
+                       *************************************************
+   22 00000000         ;                                    失能 and 使能 中断
+   23 00000000         ;
+   24 00000000         ; Description : Disable/Enable interrupts.
+   25 00000000         ;
+   26 00000000         ; Prototypes  : void  CPU_IntDis(void);
+   27 00000000         ;               void  CPU_IntEn (void);
+   28 00000000         ;*******************************************************
+                       *************************************************
+   29 00000000         
+   30 00000000         CPU_IntDis
+   31 00000000 B672            CPSID            I
+   32 00000002 4770            BX               LR
+   33 00000004         
+   34 00000004         
+   35 00000004         CPU_IntEn
+   36 00000004 B662            CPSIE            I
+   37 00000006 4770            BX               LR
+   38 00000008         
+   39 00000008         
+   40 00000008         
+   41 00000008                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
+ork --depend=.\objects\cpu_a.d -o.\objects\cpu_a.o -ID:\keil_project\7-阻塞延时
+与空闲任务\project\RTE -ID:\keil\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include -ID:\ke
+il\ARM\PACK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include --predefine="__EVAL SETA 
+1" --predefine="__UVISION_VERSION SETA 515" --predefine="_RTE_ SETA 1" --predef
+ine="ARMCM3 SETA 1" --list=.\listings\cpu_a.lst ..\User\uC-CPU\cpu_a.asm
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+.text 00000000
+
+Symbol: .text
+   Definitions
+      At line 15 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      None
+Comment: .text unused
+CPU_IntDis 00000000
+
+Symbol: CPU_IntDis
+   Definitions
+      At line 30 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 6 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_IntDis used once
+CPU_IntEn 00000004
+
+Symbol: CPU_IntEn
+   Definitions
+      At line 35 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 7 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_IntEn used once
+3 symbols
+337 symbols in table

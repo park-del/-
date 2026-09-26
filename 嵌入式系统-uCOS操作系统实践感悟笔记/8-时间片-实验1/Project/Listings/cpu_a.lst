@@ -1,0 +1,233 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000         
+    2 00000000         ;*******************************************************
+                       *************************************************
+    3 00000000         ;                                           PUBLIC FUNCT
+                       IONS
+    4 00000000         ;*******************************************************
+                       *************************************************
+    5 00000000         
+    6 00000000                 EXPORT           CPU_IntDis
+    7 00000000                 EXPORT           CPU_IntEn
+    8 00000000         
+    9 00000000                 EXPORT           CPU_SR_Save
+   10 00000000                 EXPORT           CPU_SR_Restore
+   11 00000000         
+   12 00000000                 EXPORT           CPU_CntLeadZeros
+   13 00000000                 EXPORT           CPU_CntTrailZeros
+   14 00000000         
+   15 00000000         
+   16 00000000         ;*******************************************************
+                       *************************************************
+   17 00000000         ;                                      ´úÂë²úÉúÖ¸Áî
+   18 00000000         ;*******************************************************
+                       *************************************************
+   19 00000000         
+   20 00000000                 AREA             |.text|, CODE, READONLY, ALIGN=
+2
+   21 00000000                 THUMB
+   22 00000000                 REQUIRE8
+   23 00000000                 PRESERVE8
+   24 00000000         
+   25 00000000         
+   26 00000000         ;*******************************************************
+                       *************************************************
+   27 00000000         ;                                    Ê§ÄÜ and Ê¹ÄÜ ÖÐ¶Ï
+   28 00000000         ;
+   29 00000000         ; Description : Disable/Enable interrupts.
+   30 00000000         ;
+   31 00000000         ; Prototypes  : void  CPU_IntDis(void);
+   32 00000000         ;               void  CPU_IntEn (void);
+   33 00000000         ;*******************************************************
+                       *************************************************
+   34 00000000         
+   35 00000000         CPU_IntDis
+   36 00000000 B672            CPSID            I
+   37 00000002 4770            BX               LR
+   38 00000004         
+   39 00000004         
+   40 00000004         CPU_IntEn
+   41 00000004 B662            CPSIE            I
+   42 00000006 4770            BX               LR
+   43 00000008         
+   44 00000008         
+   45 00000008         
+   46 00000008         ;*******************************************************
+                       *************************************************
+   47 00000008         ;                                      CRITICAL SECTION 
+                       FUNCTIONS
+   48 00000008         ;
+   49 00000008         ; Description : Disable/Enable interrupts by preserving 
+
+
+
+ARM Macro Assembler    Page 2 
+
+
+                       the state of interrupts.  Generally speaking, the
+   50 00000008         ;               state of the interrupt disable flag is s
+                       tored in the local variable 'cpu_sr' & interrupts
+   51 00000008         ;               are then disabled ('cpu_sr' is allocated
+                        in all functions that need to disable interrupts).
+   52 00000008         ;               The previous interrupt state is restored
+                        by copying 'cpu_sr' into the CPU's status register.
+   53 00000008         ;
+   54 00000008         ; Prototypes  : CPU_SR  CPU_SR_Save   (void);
+   55 00000008         ;               void    CPU_SR_Restore(CPU_SR  cpu_sr);
+   56 00000008         ;
+   57 00000008         ; Note(s)     : (1) These functions are used in general 
+                       like this :
+   58 00000008         ;
+   59 00000008         ;                       void  Task (void  *p_arg)
+   60 00000008         ;                       {
+   61 00000008         ;                           CPU_SR_ALLOC();             
+                               /* Allocate storage for CPU status register */
+   62 00000008         ;                               :
+   63 00000008         ;                               :
+   64 00000008         ;                           CPU_CRITICAL_ENTER();       
+                               /* cpu_sr = CPU_SR_Save();                  */
+   65 00000008         ;                               :
+   66 00000008         ;                               :
+   67 00000008         ;                           CPU_CRITICAL_EXIT();        
+                               /* CPU_SR_Restore(cpu_sr);                  */
+   68 00000008         ;                               :
+   69 00000008         ;                       }
+   70 00000008         ;*******************************************************
+                       *************************************************
+   71 00000008         
+   72 00000008         CPU_SR_Save
+   73 00000008 F3EF 8010       MRS              R0, PRIMASK ; Set prio int mask
+                                                             to mask all (excep
+                                                            t faults)
+   74 0000000C B672            CPSID            I
+   75 0000000E 4770            BX               LR
+   76 00000010         
+   77 00000010         
+   78 00000010         CPU_SR_Restore                       ; See Note #2.
+   79 00000010 F380 8810       MSR              PRIMASK, R0
+   80 00000014 4770            BX               LR
+   81 00000016         
+   82 00000016         ;*******************************************************
+                       *************************************************
+   83 00000016         ;                                          ¼ÆËãÇ°µ¼0º¯Êý
+                       
+   84 00000016         ;
+   85 00000016         ; ÃèÊö      £º
+   86 00000016         ;
+   87 00000016         ; º¯ÊýÉùÃ÷  £º CPU_DATA  CPU_CntLeadZeros(CPU_DATA  val)
+                       ;
+   88 00000016         ;             
+   89 00000016         ;*******************************************************
+                       *************************************************
+   90 00000016         CPU_CntLeadZeros
+   91 00000016 FAB0 F080       CLZ              R0, R0      ; Count leading zer
+                                                            os
+   92 0000001A 4770            BX               LR
+
+
+
+ARM Macro Assembler    Page 3 
+
+
+   93 0000001C         
+   94 0000001C         
+   95 0000001C         
+   96 0000001C         ;*******************************************************
+                       *************************************************
+   97 0000001C         ;                                          ¼ÆËãºóµ¼0º¯Êý
+                       
+   98 0000001C         ;
+   99 0000001C         ; ÃèÊö      £º
+  100 0000001C         ;
+  101 0000001C         ; º¯ÊýÉùÃ÷  £º CPU_DATA  CPU_CntTrailZeros(CPU_DATA  val
+                       );
+  102 0000001C         ;             
+  103 0000001C         ;*******************************************************
+                       *************************************************
+  104 0000001C         
+  105 0000001C         CPU_CntTrailZeros
+  106 0000001C FA90 F0A0       RBIT             R0, R0      ; Reverse bits
+  107 00000020 FAB0 F080       CLZ              R0, R0      ; Count trailing ze
+                                                            ros
+  108 00000024 4770            BX               LR
+  109 00000026         
+  110 00000026         
+  111 00000026         
+  112 00000026         
+  113 00000026         
+  114 00000026                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
+ork --depend=.\objects\cpu_a.d -o.\objects\cpu_a.o -ID:\´óÈýÉÏÑ§Ï°ÎÄ¼þ\13-Ê±¼äÆ
+¬\Project\RTE -ID:\keil\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include -ID:\keil\ARM\PA
+CK\ARM\CMSIS\4.3.0\Device\ARM\ARMCM3\Include --predefine="__EVAL SETA 1" --pred
+efine="__UVISION_VERSION SETA 515" --predefine="_RTE_ SETA 1" --predefine="ARMC
+M3 SETA 1" --list=.\listings\cpu_a.lst ..\User\uC-CPU\cpu_a.asm
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+.text 00000000
+
+Symbol: .text
+   Definitions
+      At line 20 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      None
+Comment: .text unused
+CPU_CntLeadZeros 00000016
+
+Symbol: CPU_CntLeadZeros
+   Definitions
+      At line 90 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 12 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_CntLeadZeros used once
+CPU_CntTrailZeros 0000001C
+
+Symbol: CPU_CntTrailZeros
+   Definitions
+      At line 105 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 13 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_CntTrailZeros used once
+CPU_IntDis 00000000
+
+Symbol: CPU_IntDis
+   Definitions
+      At line 35 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 6 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_IntDis used once
+CPU_IntEn 00000004
+
+Symbol: CPU_IntEn
+   Definitions
+      At line 40 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 7 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_IntEn used once
+CPU_SR_Restore 00000010
+
+Symbol: CPU_SR_Restore
+   Definitions
+      At line 78 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 10 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_SR_Restore used once
+CPU_SR_Save 00000008
+
+Symbol: CPU_SR_Save
+   Definitions
+      At line 72 in file ..\User\uC-CPU\cpu_a.asm
+   Uses
+      At line 9 in file ..\User\uC-CPU\cpu_a.asm
+Comment: CPU_SR_Save used once
+7 symbols
+341 symbols in table
