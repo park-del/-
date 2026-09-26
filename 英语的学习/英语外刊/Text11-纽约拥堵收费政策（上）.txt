@@ -1,0 +1,85 @@
+新题型文章（600字大约，排序，七选五）
+常规文章（400字）
+
+After New York City's New Congestion（意思：拥堵） Pricing（意思：v.收费） Plan，Will Other U.S. Cities 【Follow Suit】（意思：效仿） ?
+
+文化点：
+（1）纽约堵车问题：
+纽约的交通拥堵是世界上最严重之一。开车穿过市中心是对灵魂的摧残。
+2016年，开车穿越纽约市中心的平均速度是4.7英里每小时，这并不比快步行走快多少。
+
+（2）
+London：(2003)、 进城费、 14年11.5磅、周一-至五7: 00-6: 30、2.6亿
+Singapore：最早(1975年) 市中心6平方公里的控制区域、电子收费系统、读卡器。
+Bejing：限行、限购、外地车辆禁止进入二环
+Tokyo：无拥堵费、公交出行的意识强烈、汽车呆在车库里（周末开车去玩）、地铁准时、董事长才有停车位
+Stockholm： the most effective、(2007)、 加大公共交通和自行车道投入（收的钱用于这样的用途）
+
+
+
+第1段段落解析：
+1. New York City has sparked（意思：引发，导致） debate（意思：争论） 【across the country】（介词短语做后置定语，在全国范围内的“争论”） 【over its decision to use congestion pricing】（over引导介词短语做“debate”的后置定语，可以理解为“debate”的同位语，“debate”的内容） 【to accelerate and help fund the adoption of low-carbon transportation】.（to do作目的状语，即“加速低碳出行的实施，并为低碳出行筹集资金”）
+
+单词：
+spark		v. 引发，导致；n. 火花
+
+
+2. Now, several other cities in the U.S. , including DC, Honolulu, Los Angeles, San Francisco, Portland, and Seattle, 【are starting to explore】（整体看成谓语） the potential 【for this bold action】（介词短语修饰“potential”，“大胆举措的潜能”） to advance their own climate and livability efforts.
+
+主干：
+【several other cities】（主语） 【are starting to explore】（谓语） 【the potential】（宾语）
+
+单词：
+explore		探索，探险，开发
+advance		高级；促进，推进
+livability		宜居性
+
+
+
+第2段段落解析：
+1. Most of 【these cities】（指代前面提到过的“大城市”）, including DC, Los Angeles, and Seattle, are winners of the Bloomberg Philanthropies American Cities Climate Challenge, 【a $70 million】 program designed to help 【25】 of the country's largest cities accelerate and deepen their efforts to reduce climate pollution from the building and transportation sectors.
+
+单词：
+sector		n.区域、部门、领域、行业
+
+段落逻辑：
+（1）第1段：these cities指代前面提到过的那些大城市，一大堆的专有名词“句子中大写的”，具体的数字数字巴拉巴拉，所以还是在说这些城市的情况。
+（2）第2段：找中心名词，找到了“cites”，还是在讲城市。
+（3）第3段：as是修饰成分，往后找，“more and more cities”还是在讲城市。
+（4）前3段都是在讲这些城市咋地咋地了，所以还是在解释这些城市为什么会对拥堵收费感兴趣，都是属于例子的范畴。
+（5）第4段：they指代前面提到过的名词，且是复数形式，则就还是城市。and表递进，它们为什么不呢？
+（6）第6段：we表示包含作者在内的观点。know+观点。work为“起作用，奏效”。这里的观点“putting a price on congestion works”还是说“拥堵收费号”，刚好和本文标题“ Congestion（意思：拥堵） Pricing（意思：v.收费） Plan”相对应。
+
+2. Through the Climate Challenge, all winning 【cities】 are pursuing ambitious 【actions】（n复数后面接了“from …… to ……”是用来举例子的，即“actions”具体的例子） 一 from expanding miles of 【bus-only lanes】（意思：公交专用道） to removing 【parking minimums】（移除/取消 停车位最小量，就是“没有停车的位置了，就是不让你停车了”） in new construction —  to reduce climate pollution from the transportation sector.
+
+
+逻辑点：
+（1）名词复数 + including 、involving 、from …… to …… 、ranging from …… to
+都是用来举例子的，即是把这个复数名词具象化的，即是找到两三个具体的例子让你这个“名词”不那么抽象，不那么空。
+
+总结：我们可以用上述这种结构“名词复数 + including 、involving 、from …… to …… 、ranging from …… to”在写作中用来举例子。
+
+
+3.  【As】（as引导永远都是修饰成分，直接划掉） air quality worsens and traffic increases, 【more and more cities】 are 【looking at】（翻译为“关注”） congestion pricing strategies, 【ranging from】（“range from …… to ……”就是在举例子，举前面的n复数“strategies 策略”的具体例子 ） putting a price on transportation network companies (TNCs) 【to】 full out cordon pricing（翻译：例如 为网约车公司定价，提高溢价（即提高开车或打车费用，这样就会减少这种行为的发生））.
+
+单词：
+bus-only lanes 	公交专用道
+cordon		警戒线
+
+
+逻辑点：
+（1）“As引导的先发生”是为原因，“后面的从句”是为结果。“range from …… to ……”是为举例子。因此，显然原因要比例子更加重要，即“as引导后面的”是要比“range from引导的”更加重要。
+
+4. 【And】 why wouldn't they?（翻译：它们为什么不使用“拥堵收费”）
+
+
+5. 【We】 know 【putting a price on congestion】 works（起作用，作者是支持的）!
+
+逻辑点：
+（1）作者对这个“拥堵收费”的态度是支持的。
+
+
+
+
+
+

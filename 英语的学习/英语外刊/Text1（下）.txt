@@ -1,0 +1,165 @@
+
+第4段段落解析：
+
+1.【One might think that】（有些人认为，这中句型是为一个炮灰句型） gifted and accomplished（意思：有成就的） people, such as（举例子，啥是有天赋有成就的人） the man on the plane, would 【be less susceptible than others to】（固定搭配） this sense of irrelevance; （分号后面的就是第2个句子）after all, accomplishment（意思：成就，成就感） is a well-documented（意思：证据明确的） source of happiness.
+
+逻辑点：
+（1）像这种句型“One might think that（有人认为）”“some think that（有些人认为）”，这些都是“炮灰句型”，that后面的观点既不是“作者的观点”，也不是“权威人士的观点”，that后面的这种观点往往是作者需要去否定的，起到铺垫的作用，that后面的观点不重要，这种炮灰句型进行略读就可以了。
+
+技巧：以后一见到“One might think that”这样的句式就将其给圈起来，然后在旁边写上“炮灰”（这里只是提到了一小部分人别扭的观点）。下面的第2句和这里的第1句刚好相反，更加印证了这一句为炮灰句。
+
+语法点：
+（1）固定搭配。
+be susceptible to sth    易受……的影响
+be less susceptible than others to（和别人相比，没有那么容易受到……的影响）：这里在这个“be susceptible to”增加了一些东西，less表否定，less susceptible就是“没有那么容易受到影响的”，than others（与别人相比），to后面的就是受到的影响。
+
+
+2.If current（意思：当下的，当前的） accomplishment brings happiness, then shouldn't（表示反问） the memory of that accomplishment provide some happiness 【as well】（意思：也）?
+
+第4段单词汇总：
+after all		毕竟、终究
+gifted 		adj.有天赋的
+accomplished 	adj. 才华高的
+susceptible 	adj. 易受影响的
+current 		adj. 当前的
+well-documented 	adj. 证据充分的
+provide 		v.提供、规定
+as well		也
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+第5段段落解析：
+1.Maybe not（过渡句，承上启下，回答上面的反问句，观点与炮灰句相反）.
+
+逻辑点：
+（1）过渡句后面的往往就是为主题句，观点句。
+
+2.【Though】 the literature on this question is sparse, 【这里应该是省略了but】giftedness and achievements 【early in life】（修饰前面的“天赋”“成就”，译为“早期的”） do not appear to provide an insurance（意思：保障） policy against suffering later on.（but后面的为观点句，这里的观点很明显和炮灰句的观点相反，but后面的就是为本段的中心）
+
+逻辑点：
+（1）见到 though，but 这种表示让步关系的句子时，重要的是“but”后面的。
+
+3.【In 1999】,【 Carole Holahan and Charles Holahan】, psychologists at the University of Texas , published an influential paper in The International Journal of Aging and Human Development that 【looked at】（look at后面接的就是研究对象，就是例子，前面所接的时间就是这个人所做的这个研究的时间，这里是在举例子）  hundreds of older adults who early in life had been identified as  highly gifted.
+
+
+逻辑点：
+（1）在一个句子中见到有人的话，如果能够找到观点词，如say等，则后面所接的观点就是这个人的；如果能够找到表示实验现象的词，如 look at ，则后面所接的研究对象，即后面所做的研究就是这个人做的，即是作者举的就是这个人的例子。
+（2）牛人后面的逗号，是用来解释身份的，作为插入语结构，不用看。
+
+4.The Holahans' 【conclusion】（后面的是观点）:“L earning at a younger age of membership in a study of intellectual giftedness was related to ... less favorable psychological well-being at age eighty."
+
+
+句子间逻辑：
+第2句给出了一个抽象的观点，第3句通过举例子来支持这个观点，第4句得出了一个结论，则第4句所得出的这个观点就是第2句所给出的那个抽象的观点。
+
+句子间逻辑技巧：
+（1）通过逻辑分析得出了第2句和第4句所表述的为一个观点，因此，看懂了第2句的观点之后，则第4句的观点就可以略读了。如果看不懂第2句的观点的话，可以通过第4句的观点来帮助自己理解第2句的观点。
+
+
+
+第5端逐句解析：
+
+2.【Though】 the literature（意思：文献） on this question is sparse（意思：a.稀缺的）（让步状语修饰句子）, 【这里应该是省略了but】giftedness and achievements 【early in life】（修饰前面的“天赋”“成就”，译为“早期的”） 【do not appear to】（意思：似乎没有） provide an 【insurance（意思：保障） policy】（意思：保单，保障） against（意思：抗击） suffering（意思：n.痛苦，苦难） later on（与前面的 early in life 相对应，这里译为“晚年的”）.
+
+
+
+3.【In 1999】,【 Carole Holahan and Charles Holahan】, 【psychologists at the University of Texas】（牛人身后的逗号做为插入语，解释身份，不用看）, published an influential（意思：a.有影响力的） paper（意思：论文） in 【The International Journal of Aging and Human Development】（大写的专业名词团伙，常常是为杂志名，书名，都不重要） that 【looked at】（look at后面接的就是研究对象，就是例子，前面所接的时间就是这个人所做的这个研究的时间，这里是在举例子）（这里是这个论文研究了） hundreds of older adults who early in life 【had been identified as】（被定义为/被视为） highly gifted.
+
+
+4.The Holahans' 【conclusion】（后面的是观点）:“【L earning】（对应了例子中的“giftedness”） 【at a younger age】（对应了例子中的“early in life”） of membership in a study of intellectual giftedness was related to ... 【less（意思：不） favorable（意思：有利的） psychological well-being】（对应了例子中的“suffering”） 【at age eighty】（对应了例子中的later on）."
+
+句间逻辑：
+（1）2句与4句是完全一样的，4句是2句的一种替换。2句是作者总结的，4句值这俩牛人的原话。2句和4句只看懂一个就行了。
+
+
+
+第5段单词汇总：
+sparse 		adj. 不足的、稀少的
+insurance 	n.保证、保障
+influential	 adj. 有影响力的
+identify		v.认定、定义为.
+highly		 adv. 高度地
+conclusion 	n. 结论
+membership 	n. 成员数、会员
+be related to	与.....相关
+favorable 	adj.有利的
+well-being 	n.福利
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+第6段段落解析：
+
+1.【This study】 may simply be 【showing that】（后面为作者所要表达的观点，核心信息） it's hard to live up to high expectations, and that telling your kid she is a genius is not necessarily good parenting.
+
+2.(The Holahans 【surmise that】 the children identified as gifted might have made intellectual ability more central to their self-appraisal, creating "unrealistic expectations for success" and causing them to fail to“take into account the many other life influences on success and recognition.")
+
+技巧：
+（1）在考研阅读中会遇到两种逗号的情况：
+①  句子中间是括号： , (   ) .
+②  整个句子都是括号：(  .)
+第①种一定要看（）里面的会帮助你理解前面那个复杂或者高级的词汇，第②种是作者自己也不确定，这是一种观点的延伸，会使得观点更加严密，只是补充而已。
+
+3.【However】, abundant evidence 【suggests】（观点，一定要看，由于前面是为however，故与第1句的观点相反） that the waning of ability in people of high accomplishment is especially brutal psychologically.
+
+4.【Consider】（祈使句） professional athletes, many of whom struggle profoundly after their sports career ends.
+
+
+逻辑点：
+（1）Consider放在句首构成的祈使句一定是“例子”。（想想……，则后面的就是例子）
+
+5.【Tragic examples】（举例子） abound, involving depression, addiction, or suicide; unhappiness in retired athletes may even be the norm, at least temporarily.
+
+句间逻辑：
+（1）4、5、6句都是举例子，举例子是要用来证明观点的，例子和观点常常都是挨着的，故4、5、6证明的都是第3句的观点。（把第3句的观点分析透了，第4、5、6随便看看一下，4、5、6就是在告诉你确实如此的）
+
+6.【A study】 published in the Journal of Aplied Sport Psychology in 2003, which charted the life satisfaction of former Olympic athletes, 【found that】 they generally struggled with a low sense of personal control when they first stopped competing.
+
+
+
+第6段段落逐句解析：
+
+1.【This study】 may simply be 【showing that】（后面为作者所要表达的观点，核心信息） it's hard to 【live up to】（意思：不辜负） high expectations【， and】（并列，前面一个句子，后面一个句子） that（，and that 与 that 是平行对称的） telling your kid she is a genius is not necessarily good parenting（意思：养育模式）.
+
+
+
+3.【However】, abundant（意思：丰富的，大量的） evidence 【suggests】（观点，一定要看，由于前面是为however，故与第1句的观点相反） that the waning（wane的变形，wane：衰落，衰退） of ability in people of high accomplishment is especially brutal（意思：残忍的） psychologically.
+
+
+4.【Consider】（祈使句） professional athletes, many of whom struggle profoundly（意思：程度adv. 及其） after their sports career ends.
+
+5.【Tragic（意思：悲剧的） examples】（举例子） abound（意思：比比皆是）, involving depression, addiction, or suicide; unhappiness in retired athletes may even be the norm（意思：常态）, at least temporarily（意思：当下如此，临时）.
+
+6.【A study】 【published in the Journal of Aplied Sport Psychology in 2003】（专业n团伙，划掉）, which charted（意思：v.列表） the life satisfaction（意思：满意度） of former Olympic athletes, 【found that】 they（指代运动员） generally 【struggled】（意思：艰难挣扎，翻译为“痛苦”） with 【a low sense of personal control】（意思：自控力下降） when they first stopped competing.
+
+
+第6端单词汇总：
+liveupto		不辜负(期望)
+surmise		 v. 推测
+appraisal		n.评估、鉴定
+take into account	 .....列入考虑
+abundant 	adj. 丰富的、大量的
+brutal 		adj. 残忍的、冷酷的
+profoundly	adv.极大地
+abound 		v.大量存在
+addiction		n.瘾、嗜好
+chart 		v. 记录、跟踪
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+
+
+全文总结：
+P1  研究表明人在30岁以后幸福感逐年下降到50岁下降到最低点
+P2  然后又重新上扬，到70岁回复比较高的值;之后有的人心态好，活到
+      老，有的人心态不好，自杀辽。
+P3  晚年觉得自己没用，易出现身体问题甚至死的早
+P4  是不是年轻时牛的人，晚年就会幸福安康呢?
+P5  并没有哦!小时了了，大未必佳。
+P6  天天夸孩子是天才的父母不是好父母;晚年心理的失落感很可怕。
+
+
+
+
+

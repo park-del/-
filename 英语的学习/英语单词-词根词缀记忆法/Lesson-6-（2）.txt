@@ -1,0 +1,103 @@
+1、vid，vis：    分开
+（19）individual    a.个人的，单独的    n.个人，个体
+拆分：in（否定前缀）+divid（为单词“划分”）+ual（复合adj后缀，u为连字符）
+记忆：不能再分的就是单个人，有“个人的，单独的”。
+
+短语：individual income tax 个人所得税
+
+（20）widow   n.寡妇
+拆分：wid（w与v通假）+ow（通假or） 
+记忆：与丈夫分开的人就是“寡妇”。
+
+单词：dowager    n.（具有亡夫头衔的）遗孀；老年贵妇
+
+（21）inevitable    a.不可避免的，必然发生的
+in-（前缀，表示“否定，不”）
+e=ex-（前缀，表示“向外”）
+-able（adj后缀）
+拆分：in+e+vit（t与d通假）+able
+记忆：不能向外分离的就是“必然发生的”，必不可少的（蕴含的意思，蕴含的真值表）。
+
+eg.It was inevitable that there would be job losses.    裁员已经是不可避免的事。
+
+单词：inevitably    adv.不可避免地；必然地
+eg. Technological changes will inevitably lead to unemployment.    技术变革将必然导致失业。
+
+
+2、spir：    呼吸
+解释：由spirit（表示“精神，灵魂”）这个简单词得到词根spir。古希腊女神雅典娜造人的时候对着泥人吹了一口气之后，这个泥人就具有了精神和灵魂。spir表示呼吸，it（由exit得到）表示走，能呼吸着走就是精神，灵魂。
+（1）spiritual    a.精神上的，心灵的
+it（表示“走”，由简单词exit得到）
+-ual（adj后缀）
+拆分：spir+it+ual
+
+短语：a spiritual experience    心灵体验
+单词：spirituality    n.灵性，精神性
+
+（2）aspire    vi.渴望，有志于（成为）
+a-（表示“加强语气”，为ad-的变体）
+拆分：a+spir+e
+记忆：当看到自己“渴望”的东西时，自己就会心跳加速，一直大口地呼吸。
+
+短语：aspir to do sth    渴望做某事
+
+（3）inspire    vt.鼓励；启发，使……有灵感
+拆分：in（前缀，表示“向里”）+spir+e
+记忆：往里吹起，给某人打打气，就是“鼓励”。给别人注入一点东西“使（他）有灵感”。
+
+短语：to inspire them to join our cause    鼓励他们加入我们的事业
+
+（4）inspiration     n.灵感；鼓舞人心的人（或事物）
+拆分：in+spir+ation（复合n后缀）
+
+eg. Dreams can be a rich source of a inspiration for an artist.    梦境可以成为艺术家灵感的丰富源泉。
+
+（5）expire    v.失效，终止；逝世
+拆分：ex（前缀，表示“向外，处”）+pire（x有发s的音，故这里为了避免发音重复，省略s）
+记忆：人只有出气，没有进气，就说明这个人快死掉了，即“逝世”；物品逝世就是物品过期了，即物品“失效”。合同的有效期到了我们就叫合同“终止”。
+
+短语：expired data    失效日期；有效期
+
+（6）conspire    v.合谋，密谋
+拆分：con（前缀，表示“共同”）+spir+e
+记忆：两个人同呼吸，共命运，就是这两个人“合谋，密谋”。
+
+（8）conspiracy    n.密谋策划；阴谋
+拆分：conspir+acy（n后缀）
+短语：conspiracy theory 阴谋论
+
+3、sper：    希望
+解释：由词根spir得到，人只有活着才会有“希望”。元音字母i--->e,得到sper。
+（1）despair    v.&n.绝望
+拆分：de（前缀，表示“向下，去掉”）+spair（ai与e元音互换）
+记忆：去掉希望就“绝望”。
+
+短语：in despair    adv.绝望地
+
+（2）desperate    a.不顾一切的；绝望的；极度渴望的
+拆分：desper+ate（adj后缀）
+记忆：“绝望的”就是特别想要一些东西，就是“极度渴望的”。
+
+（3）desperation    n.绝望的境地；不顾一切拼命
+拆分：desper+ation（复合n后缀）
+
+短语：in desperation    绝望地；不顾一切地
+
+（4）desperado    n.亡命之徒，暴徒
+-ado（n后缀，表示“人”，由adult得到）
+拆分：de（前缀，表示“向下，去掉”）+sper+ado
+记忆：对这个世界毫无希望的人就是“亡命之徒”。
+
+（5）prosper    v.繁荣，昌盛；（使）成功
+拆分：pro+sper
+记忆：希望都在前面就是“繁荣，昌盛”。
+
+（6）prosperous    a.繁荣的；兴旺的
+拆分：prosper+ous（adj后缀）
+
+短语：a relatively family    一个相对富裕的家庭
+
+（7）prosperity    n.繁荣，成功
+拆分：prosper+ity（复合n后缀，i为连字符）
+
+eg. The country is enjoying a period of peace and prosperity.    国家正值国泰民安、繁荣昌盛的时期。

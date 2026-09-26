@@ -1,0 +1,200 @@
+背景文化：
+1、事业成功-----幸福，事业下降----幸福感下降。
+如：professional decline   事业下降----->幸福感下降。
+
+
+2、西方人喜欢研究结果和权威人士的观点。
+
+研究、实验、已出版书籍和知名作家+
+say
+argue  
+write
+mention 
+believe
+propose 
+suggest
+estimate
+show
+demonstrate
++that+观点
+（以上统一翻译成“认为……”）
+
+according to 某某牛人
+分析：according to放句首，后面就是观点；according to放句尾，前面就是观点。
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+第1段段落解析：
+框架：
+1.The field（领域） 【of“happiness studies"】   has boomed（蓬勃发展） 【over the past two decades】, and a consensus（共识） has developed（达成） 【about well-being】 【as we advance through life（生活的进步）】.
+
+提示：首段首句----主旨句、关键词、铺垫（虽然不是主旨句，但是引出主旨句）。即“首段首句必读”。
+逻辑点：
+（1）A，and B：表示“A与B并列，且相对独立”，A和B是两个并列的简单句或者复杂句。
+（2）只要是as引导的成分，不论as充当啥，都当成修饰成分，即把“as+A”划掉。
+
+
+1句逻辑：讲到了形成一个“consensus（共识）”，那么下一句就一定会告诉你“共识是什么”（技巧：快速找表示观点的动词，如 say+that 中的say）。
+
+2. In The Happiness Curve: Why Life Gets Better After 50, Jonathan Rauch, a Brookings Institution scholar and an Atlantic contributing editor, reviews the strong evidence { {suggesting that} the happiness of most adults declines through their 30s and 40s, then [ bottoms out ]（降到谷底） in their early 50s. }
+
+技巧：寻找关键词“suggest that（翻译成“认为”）”快速定位观点为“suggest+that+A”中的A句，A句就是“共识是什么”。
+
+3. Nothing about this pattern is set in stone, of course.
+
+逻辑点：
+（1）of course：只要一个句子中有of course，无论of course出现在哪里，这个句子就表示让步，铺垫的，从来很少为重点，啥用没有。
+
+4. But the data（表示“30-40-50”） seem eerily consistent with my experience（作者）: My 40s and early 50s were not an especially happy period of my life, notwithstanding my professional fortunes.
+
+技巧：“:”后面的一般为观点，既然是“consistent with”，那“：”后面的观点就与前面的观点一样，前面已经知道，则此时“:”后面的就不用看。
+
+精讲：
+
+2. 【In The Happiness Curve: Why Life Gets Better After 50】（介词短语划掉）, Jonathan Rauch, a Brookings Institution scholar and an Atlantic contributing editor（两个逗号之间，为插入语，解释JR这个人，划掉）, reviews（回顾） the strong evidence { {suggesting that} the happiness of most adults declines through their 30s and 40s, then [ bottoms out ]（降到谷底） in their early 50s. }
+
+
+划词技巧：
+（1）大写团伙（常为 论文标题，书名）一网打尽，如“The Happiness Curve: Why Life Gets Better After 50”。
+
+语法点：
+（1）“suggesting that ……”作为伴随状语，表示主动，动作的发出者就是其前面的n“the strong evidence”。 
+
+
+3. Nothing about this pattern（30-40-50） is set in stone（意思：按在石头里---->板上钉钉的，绝对的）, of course.
+
+解释：of course是为一个铺垫句，不是更改观点，给自己留余地（不把事情说死）。
+
+
+4. But the data（表示“30-40-50”） seem（用be太绝对，这里用seem更加委婉） eerily（意思：奇异地，神奇地） consistent with my experience（作者）: My 40s and early 50s（意思：50岁出头） were not an especially happy period of my life, notwithstanding（意思：prep.尽管） my professional fortunes（意思：大笔财富）.
+
+
+
+第1段单词总结：
+boom           	v. 兴起
+consensus 	n.共识
+bottom out	触底
+eerily 		adv. 奇异地
+consistent with	与.....致
+notwithstanding 	prep. 尽管
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+第2段段落解析：
+1.So what can people expect（面临什么情况） after that（50）, based on the data?
+
+逻辑点：
+（1）So 后面的句子表示顺承前一句。
+（2）有“？”必有答，一般“？”后面的那一句就是答句。问句只是起到提示铺垫作用，不重要，答句更重要（答句为观点）。
+（3）expect为期待，“隐形的将来”，时间点为 “after that”中的“that”，为“50出头”。后面按照“50s”“70 or so”“After 70”“age 75”来叙述，都是“50”的将来。
+
+2. The news（意思：消息，回应，结论） is mixed（意思：混合的，引申“复杂的，多样的”）.
+
+
+3.Almost all studies 【of happiness】 【over the life span（life span---->“一生，寿命”）】（放到n后面，就是修饰这个n“happiness”的） { show that }（表示观点，后面 +宾从）, 【in wealthier countries】, most people s contentment 【starts to increase】（谓语动词starts to increase不及物，后面没有宾语，后面的都是修饰成分，都划掉） 【again in their 50s, until age 70 or so】（作状语，修饰v“starts to increase”，划掉，在它们50多岁时再次上升，直到70岁左右）.
+
+短语：
+（1）or so（同about 表示大约）。“数字+or so”=====“about+数字”。
+
+4.That（替代上一句的70） is where（做状语，修饰句子或v，连接词在表语从句中作状语，表示“在……情况，在……位置”） things get less predictable, however.
+
+逻辑点：
+（1）however，可放在“句首，句中，句尾”。无论放在哪，however引导的句子都表示“强转折”，否定前面部分，或者与前面部分含义发生极大变化。
+
+
+5.After 70, some people stay steady（意思：稳定地） in happiness; others get happier until death.
+
+技巧：
+（1）“分号；”相当于“and”，连接两个完整的句子。
+
+逻辑点：
+（1）some……，the others……  ：表示只有两部分（两点），some表示的是一部分，the others是为另外一部分。
+         some……，others……        ：表示>=三部分（不止两点），some为一部分，others为一部分。
+
+6.Others- men in particular（特别是男性）一see their happiness plummet（意思：v.暴跌）.
+
+解释：第5句中的some为第1点，others为第2点，第6中的others为第3点。
+
+7.Indeed（表递进，进一步解释怎么暴跌）, depression and suicide rates for men increase after age 75.
+
+逻辑点：
+（1）indeed，承接上一句，表示递进，对上一句的补充。这里是承接第6句，仍然是第3点，不是第4点。
+
+第2段单词汇总：
+gifted 		adj.有天赋的
+mixed 		adj. 混杂的
+contentment 	n.满意、满足
+plummet 		v. 暴跌
+
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+第3段段落解析：
+1.【This last group】（75+ 的人） would seem to include the hero on the plane.
+
+2.A few 【researchers】（则look at+实验对象） have looked at（翻译为“研究了”，后面的为例子，不是观点） this cohort to understand what drives their unhappiness.
+
+逻辑点：
+（1）研究者，学者，比较牛逼的人 + look at + 实验对象（就是举例子，而不是观点）
+
+3.It is,【 in a word】（总结关键词）, irrelevance（这个irrelevance为关键词，意思：“不相关”）.
+
+逻辑点：
+（1）第3句写出了一个关键词“irrelevance”（很抽象，在英语中不允许这么抽象，英语是形式的语言），则下面的句子（4句和5句）就是用来解释这个关键词“irrelevance”的。
+
+4.In 2007, a team of academic researchers at UCLA and Princeton analyzed data on more than 1 ,000 older adults.
+
+逻辑点：
+（1）当一个句子中有超多数字和大写的时候，这个句子就是为一个举例句，就是观点的例子。
+
+5.Their findings, 【published in the Journal of Gerontology】（划掉）, { showed that } （后面的就是为观点句，后面的就等于“irrelevance”这一个词）senior citizens who rarely or never“felt useful" were nearly three times as likely as those who frequently felt useful to develop a mild disability, and were more than three times as likely to have died during the course of the study.
+
+
+逐句精析：
+1.【This last group】（75+ 的人） would seem to include 【the hero on the plane】（意思：很厉害的人）.
+
+文化点：
+（1）the hero on the plane：在英美文化中指代超级英雄，现实中就是指“很厉害的人”。
+
+
+2.A few 【researchers】（则look at+实验对象） have looked at（翻译为“研究了”，后面的为例子，不是观点） this cohort（意思：群体，人群，指代“很厉害的人”） 【to understand what drives their unhappiness】（修饰 this cohort，“this cohort”做的，由于为to do，故带有将来的含义）.
+
+4.In 2007, a team of academic researchers at UCLA and Princeton analyzed data on more than 1 ,000 older adults.
+
+技巧：
+（1）这一句就是一个实验过程，这种表示实验过程的句子随便看看（略读）。
+
+
+5.Their findings, 【published in the Journal of Gerontology】（插入语，划掉）, { showed that } （后面的就是为观点句，后面的就等于“irrelevance”这一个词）senior citizens 【who rarely or never“felt useful" 】were nearly three times as likely as those 【who frequently felt useful】 to develop a mild disability, and（，and 前面为一个句子，后面为一个句子，后面一个句子的主语省略了，只有前面说过了，下次再次提到才会省略主语，因此后面句子的主语往前面找，这里主语为“senior citizens”） were more than three times as likely （这里是省略了those，因为前面已经出现过了，既然省略掉了those，那么as也就不需要写了）to have died during the course of the study.
+
+
+翻译：
+他们的发现出版在了Journal of Gerontology, 结果表明那些觉得自己几乎没用
+或者完全没用的老年人患轻微残疾的可能性差不多是那些经常觉得自己很有用的
+老人的三倍，而在前者在研究期间就死亡的可能性是后者的三倍还多。
+
+
+语法点：
+（1）倍数的表达。
+固定搭配：be likely to do sth    ……的可能性
+如 	 be likely to develop a mild disability    患有轻微残疾的可能性
+
+倍数结构：A is 几倍 as + adj + as B	A在……上是B的几倍
+解释：A as……as B 是同级比较的结构
+
+senior citizens  【were】 nearly three times 【as likely as】 those 【to develop a mild disability】
+解析：这其实是一个“be likely to do”的结构，likely为adj，故运用倍数结构时是为“A is as likely as B”，由于又是为 be likely to do 的结构，故后面有一个to develop a mild disability。
+
+
+逻辑点：
+（1）两个并列句   A，and B（或者 A and B）之间有相同的成分时，如B句与A句有相同的主语，则B句的主语就可以省略掉，B句与A句有相同的宾语时，则B句的宾语就可以省略掉（注意，只有后面的可以省略，前面的A句中的相同成分则是不可以省略掉的）。
+
+
+
+第3段单词汇总：
+cohort		n.一群人
+drive 		vt.拉动、促使
+irrelevance 	n. 无关紧要.
+academic 	adj. 学术的
+rarely 		adv. 几乎不
+mild 		adj.轻微的
+disability 		n. 残疾
+course 		n. 过程

@@ -1,0 +1,16 @@
+
+第4段段落解析：
+1. In Europe, 【there is rising noise】（句子主干，意思“上升的舆论”） about the so-called“right to disconnect", whereby（引导定语从句，相当于 through/by which，这里的which指代“right to disconnect”） workers can 【enforce】（意思：强制、实施、执行） the separation of work and downtime（意思：停工期，休息时间）.
+
+逻辑点：
+（1）there be 句型：一般用来陈述事实，表示这个事是存在的。
+（2）rising noise：表示一件事受关注度很高。
+
+语法点：
+（1）whereby：引导定语从句，相当于 by/through which。
+
+2. 【But】 the pandemic 【also】 seems to have created the perfect pretext for the two becoming fatally blurred: if your home now doubles as your workplace, you should not be surprised if your job seems to have taken over even more of your life.
+
+
+逻辑点：
+（1）but+also：语气很柔和，表示转折（与前一句意思相反）或递进（换了一种说法来表达意思，使观点更加深刻）。

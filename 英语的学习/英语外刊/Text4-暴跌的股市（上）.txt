@@ -1,0 +1,154 @@
+				How to think about the Plummeting（暴跌的） Stocket Market
+No one knows exactly how much damage the coronavirus（新冠病毒） will do to the global economy, but investors have to guess.
+语法点：
+（1）do damge to……   ：对……造成伤害
+ 
+
+文化点：
+（1）美国三大股指（都是股票相关的东西，所讨论的都是上市公司的一些情况）
+the Dow Jones Industrial Average：道琼斯
+the Nasdaq Composite：纳斯达克（全球最大的证券交易公司）
+the S&P 500：标准普尔指数
+
+第1段逻辑解析：
+1.Over the past week, stock markets 【around the world】 plunged（m：暴跌） 【as】（只有在为“作为”时才是介词，其他情况都是连词，引导从句，这里是“随着”，故后面是一个句子） distressing（m：令人沮丧的） news 【about the spread of the novel coronavirus】（news的同位语） continued（从句谓语） to accumulate（m：聚集，积累）.
+
+逻辑点：
+（1）第1段陈述了1个全球的现象“股市暴跌”。
+（2）先说了全球的【around the world】“股市暴跌”的现象，下面又提到了在美国【in the United States】。由大到小，应该是举例子。不看也知道，美国的股市也暴跌。
+
+2. In the United States, the three major stock indexes- the Dow Jones Industrial Average, the Nasdaq Composite, and the S&P 500-fell more than 10 percent below their recent peaks, 【a sharp decline that qualifies in Wall Street terminology as a market“correction（m：用华尔街的术语来说就是配得上“市场熔断”）】（同位语解释“跌的程度”）.
+
+
+单词解决：
+index：	指数，索引
+peak：	峰值，顶峰，巅峰
+sharp：	a. 尖锐的，锋利的，急剧的
+qualify：	v.配得上，有……资格
+terminology：	n.术语，专业说法
+
+逻辑点：
+（1）incerase、decline、plung + 数字。
+（2）fall为vi。
+
+3. One investor quoted in The Wall Street Journal called it a“bloodbath（m：血洗、大屠杀）.”
+语法点：
+（1）sb quote sth，由于这里的quoted后面没有n，故这里的quoted应该是为过去分词，真正的谓语是“called”。这里的“quoted in The Wall Street Journal ”应该是状语，修饰整个句子，状语的位置比较灵活，放在句首、句中、句尾都是可以的。这里为“一个投资者称其为大屠杀这种说法，这被引用在华尔街日报中”。
+
+
+第1段逻辑：第1段阐明一个现象，第2、3段是举例子阐明这个现象。
+
+
+第1段单词汇总：
+plunge			暴跌、骤降、突降
+distressing [dr'stresIn] 	令人痛苦的
+novel			新奇的
+accumulate['kju:mjalert]	积累、积聚、(数量)逐渐增加
+index			索引、(物价和工资等的)指数、标志、指标、表征、量度
+peak			峰值、顶峰
+sharp			骤然的、急剧的
+qualify			符合、配得上(称号、 名称)
+terminology		术语、专门]用语
+quote			引用、引述
+bloodbath		血洗、 大屠杀
+
+第1段段落总结：提出社会现象，股票市场遭受重创。
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+第2段段落逻辑解析：
+1.【The global stock market is】（整体现象是）, theoretically, the distillation（m：缩影） of how investors think（that，省略了that的宾语从句） everything that happens in the world will play out in the economy.
+
+语法点：
+（1）of是介词，of后面接了一个how引导的宾语从句；“of how ……” 做定语，是用来修饰前面的名词“distillation”的（也可以理解为 缩影distillation 的同位语的）；that 引导的定语从句修饰 everything；think后面引导的应该是一个宾语从句，省略了连接词“that”，为“think that everything that （……）will play out in the economy”。
+
+
+逻辑点：
+（1）西方人讲述了一个现象，举一些例子之后，一般会喜欢再站在全局的角度，说“总体现象是怎么怎么样的”。
+
+单词解决：
+distillation	蒸馏
+play out		逐渐发生、缓慢展开
+
+2.Right now, 【judging by these drops】（通过这些下降判断）,【 investors】 are much less optimistic than they were a week ago.
+
+语法点：
+（1）v-ing，S + V。此时“v-ing”做状语。
+（2）v-ing   V。此时“v-ing”做主语。
+
+3.But what 【they】（指代上文中提到的投资者，还是讲投资者怎么怎么样） 're predicting is not only how bad the outbreak could be 【in terms of】（就……而言） workers staying home sick【修饰workers，表示身体和心情都生病了的】, drops in consumer spending【消费放缓】, or supply-chain disruptions【供应链断裂】；it's also how bad people think it could be.【人们认为这个有多严重，人们的心态】
+
+逻辑点：
+（1）not only……，but also 结构：表示并列的结构，not only 后面的 与 but also 后面的是是为并列成分的，二者是相同或者相近的。
+
+理解点：
+（1）投资者预期的（想到的）是因为疫情爆发带来的“……”（一系列问题）。
+
+
+注意：
+not only …… but also ……，这个词组中比较随意，没有only、but、also 都是可以的。
+如果仅仅是为 not……，but……，也是一样的。
+其中only可以用其他的表示仅仅的词来代替，如 merely、simply、just。
+其中also也是可以用其他的表示也的词来代替，如 as well、too。
+
+（2）not only 后面的是为1分句，also后面的是为2分句。这是一个“主+系+表”的结构，表语分为了两部分来进行分析。
+
+单词解决：
+outbreak---break out ：爆发
+supply-chain  ：供应链
+disruption  ：干扰，破坏，扰乱
+
+
+4.【Those】（指代上文提到的两件事） might 【turn out to be】（变成，结果是） two very different things.
+
+逻辑点：
+（1）Those：这里指代的是上文提到的两件事，就时上一句中提到的“not only……”“it 's also……”，即是“事情本身”“人们心态”。
+
+
+
+第2段单词汇总：
+theoretically 		adv. 理论上地
+distillation [drst'erJn] 	n. 蒸馏、精华、浓缩、部分
+play out			逐渐发生
+optimistic 		adj. 乐观的
+outbreak 			n.爆发
+supply-chain		供应链
+disruption 		n.断裂、破坏、干扰
+
+
+第2段段落总结：股市动荡已经不仅是经济的问题还是人们精神世界的问题（就是人们心态的问题）。
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+
+第3段段落解析：
+1.【Public perception】（公众认知） of a crisis can be extremely consequential in financial markets.
+
+逻辑点：
+（1）第2段最后一句讲了“事情本身”“人们心态”，“Public perception”讲的就是“人们心态”，越来越细分，这一段就是在重点讲人们的心态。
+（2）这一句讲的是人们的心态怎么怎么样了，这一句应该是为一个观点句。
+
+2."The notion of a pandemic is pretty scary to people, and they're going to hunker down and be careful about how they live their lives" if bleak news continues to roll in, says Richard Sylla, a former professor at NYU's Stern School of Business.
+
+
+逻辑点：
+（1）双引号一般是“权威人士”或者“牛人”的观点。
+（2）借助牛人的观点给自己的观点造势，自己提出了一个观点可能立不住脚，借助一个牛人的观点会更加的有说服了。
+（3）这一句就是换一种方式再说一下，是为作者自己的观点的解释的。
+
+3.They may, 【for instance】, start to skip vacations or dine out less.
+
+逻辑点：
+（1）for instance 开始举例子。
+（2）第4段中的“Airlines and restaurants”是为具体的事物，则应该也是为举例子的。
+（3）第5段中的“All of this”表示“所有的这些”，就上文所提到的例子，也是举例子的。
+（4）第3段、4段、5段，都是为举例子的。
+（5）把观点看透了之后，例子随便看看就可以了。
+
+4. Airlines and restaurants, in turn, might lose revenue or even limit service because of what they think their customers will do.
+
+5.All of this combined would carry negative consequences for the economy, regardless of how catastrophic the direct impact of the disease actually turns out to be.
+
+6."What people are thinking, even if it's wrong, maybe matters more on a day-to-day basis [in the stock market] than what the truth is," Sylla said.
+
+逻辑点：
+（1）双引号，权威人士的观点。
+
+本段结构：观点+解释（观点的另一种说法）+例子+观点总结

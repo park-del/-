@@ -1,0 +1,106 @@
+1、dic，dict：    说；宣称
+（1）addict    v.使上瘾，使沉迷    n.上瘾的人
+拆分：ad（前缀，表示“朝，向”）+dict
+记忆：必须听从别人的命令才回去干其他的事，完全缺乏了自主性，就是“上瘾，沉迷”。
+短语：drug addicts 瘾君子
+固定搭配：be addicted to    对……上瘾
+
+（2）addiction    n.上瘾，沉溺
+拆分：addict+ion（n后缀）
+短语：alcohol addiction    酒精成瘾
+
+（3）verdict    n.裁决；结论
+ver（词根，表示“真实，正确”，由very简单词得来，very有表示“正是”的意思）
+eg. You're the very boy I want to see. 你正是我想见的那个男孩。
+拆分：ver+dict
+记忆：说正确的话，说真相就是法官“裁决”。
+
+（4）contradict     v.反驳；与……相矛盾
+contra-（前缀，表示“反”，由简单词counter（表示“柜台”）得到，柜台里和柜台外的人一定是“相对的，相反的”。）
+拆分：countra+dict
+记忆：反着说就是就是“反驳”。
+
+（5）contradiction    n.反驳；矛盾
+拆分：contradict+ion（n后缀）
+
+（6）contradictory    a.矛盾的；反对的     n.对立物；矛盾因素
+拆分：contradict+ory（adj后缀， 其中o与a元音替换）
+
+短语：two apparently contradictory statements    两种明显矛盾的说法
+          self-contradictory    a.自相矛盾的
+
+2、contra-：    前缀，表示“相对，相反”
+解释：由简单词counter（表示“柜台”）得到，柜台里和柜台外的人一定是“相对的，相反的”。
+（1）contrary    a.对立的，相反的    n.相反；反面
+拆分：contra+（a）ry（adj后缀）
+
+eg. Contrary to popular belief，many cats dislike milk.    与普通的看法相反，许多猫不喜欢牛奶。
+短语：on the contrary    与此相反；恰恰相反
+
+3、fab，fam；fess：    说
+解释：古代有一个谣言女神Fame，即“法玛”，因此造出来了词根“fam”，表示“说”。
+（1）fable    n.寓言，神话传说
+拆分：fab+l（l为连字符）+e
+记忆：所说的故事就是“寓言”。
+
+（2）fabulous    a.寓言中的，神话的；极好的
+拆分：fab+u（u连字符）+lous（复合adj后缀，l为连字符）
+短语：a fabulous performance    精彩的表演
+
+（3）fame    n.名声，名誉
+拆分：fam+e
+记忆：大家都说你好，那你就有“名声”了。
+
+单词：famous    adj.著名的
+短语：in search of fame and fortune    追逐名利
+
+（4）infant    n.婴儿    a.婴幼儿的，初期的
+拆分：in（表示“否定前缀”）+fant（n与m写法相似，通假）
+记忆：尚不会说话的就是“婴儿”。
+
+短语：Infant Formula    婴儿配方奶粉
+          Infant industries    新型工业
+
+（5）confess    v.坦白，承认；忏悔；倾诉
+拆分：con（前缀，表示“全都，完全”）+fess
+记忆：完全说出来就是“坦白”，你对组织把你做的错事完全说出来就是“坦白，承认”；你对神父把你做的错事全部说出来就是“忏悔”；你对你的好闺蜜把你心里的事都给说出来就叫做“倾诉”。
+
+（6）manifest    v.表明；显示    a.明显的
+mani（词根，表示“手”，和简单词“man”是一样的，人和手是不分离的）
+拆分：man+i+fest
+记忆：用手比划着说就是为了“表明”你的意思。
+
+短语：be mainfested in    表明……
+eg. The loss of U.S. predominance in  the world economy in the 1980s is manifested in the fact that the American auto industry had lost part of its domestic market.
+20世纪80年代美国失去世界经济主导地位的表现是美国汽车工业失去了部分国内市场。
+
+理解：这个句子使用了n的使动用法，即是用v的n形式来代替动词。这里的“predominance”这个单词就是为一个n的，表示“主导”，可以用来代替动词主导。 US predominance in the world economy指的就是“美国在经济上的主导地位”，这是为一个n短语的；is manifested in the fact ，这里是为一般现在时，表示这句话是现在说的；利用同位语从句来阐述了说话的具体内容，即美国失去了部分国内市场，即是 the American auto industry had lost part of its domestic market，这句话用的是过去完成时，美国失去国内市场是已经发生了的，是发生在过去的，由于是因为过去的事件（美国失去世界经济主导地位）对过去事件（美国失去了部分国内市场）的影响，因此用的是过去完成时。
+
+（7）profess    v.讲授；公开声明，声称
+拆分：pro（前缀，表示“向前”）+fess
+记忆：向前说就是“讲课，讲授”，还可以表示“公开声明，声称”。
+
+
+（8）profession    n.声明，宣布；职业，专业，行业
+拆分：prefess+ion（n后缀）
+记忆：由于大学教授是一个专业化非常高的职业，因此profession还表示“职业”。除此之外，还有“声明，宣布”。
+
+短语：legal profession    法律职业/行业
+
+（9）professional    a.职业的，专业的    n.专业人士
+拆分：profession+al（adj后缀，n后缀）
+eg. Enlist the support of professionals and share with them your goals and context.
+      去寻求专业人士的支持，并告知他们你的目标和所处环境。
+
+单词：enlist    v.争取，谋取（帮助、支持或参与）
+
+（10）professor    n.教授
+拆分：profess+or（n后缀，表示“人”）
+记忆：讲授的人就是“教授”。
+
+（11）professionalism    n.专业性，专业主义
+拆分：professional+ism
+
+
+
+

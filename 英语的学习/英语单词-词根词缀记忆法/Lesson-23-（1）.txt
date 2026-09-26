@@ -1,0 +1,112 @@
+  1、stru，struct：    建立，建造
+（1）structure    n.结构；建筑物
+拆分：struct+ure
+
+eg. Against a backdrop of drastic changes in economy and population structure, younger Americans are
+drawing a new 21st-century road map to success, a latest poll has found.
+一项最新民意调查发现，在经济和人口结构剧烈变化的背景下，年轻的美国人正在绘制一幅新的21世纪成功路线图。
+
+（2）construct   v.建造，构造    n.构想，概念
+拆分：con+struct
+记忆：人脑中构建出来的东西---->“构想，概念”
+
+eg. “Intelligence”at best is an assumptive construct.
+    智力充其量只是一个假设性的概念。
+
+（3）construction    n.建造，建筑物
+拆分：construct+ion
+
+（4）destruction    n.破坏；摧毁
+拆分：de（前缀，表示“去掉，变坏”）+struct+ion
+拆分：去掉所建筑起来的东西---->“破坏，摧毁”。
+
+单词：destruct    v.毁坏
+          destory    v.破坏，毁灭
+
+（5）instruct    vt.教授，讲授；吩咐，指示
+拆分：in（前缀，表示“在里面”）+struct
+记忆：在里面建造，建设你的内心---->“教授，讲授”。构造你的内心，使你按照我说的去做---->“吩咐，指示”。
+
+eg. I can't think of a single search I've done where a board has not instructed me to look at sitting CEOs first.
+      我想不到我所招聘调查中有哪一次不是董事会首先指示我从在任的CEO中寻找人选。
+
+单词：sitting   a.现任的
+固定搭配：instruct sb to do sth    指示某人做某事，命令某人做某事
+
+（6）instruction    n.命令，指示；教导；用法说明
+拆分：instruct+ion
+
+固定搭配：carry out sb's instructions    执行某人的命令
+
+（7）instructor    n.教员；教导者；（大学）讲师
+拆分：instruct+or（n后缀，表示“人”）
+
+短语：a driving instructor    驾驶教练
+          a fitness instructor    一位健身教练
+
+（8）obstruct    v.阻挠，阻碍
+拆分：ob（前缀，表示“反对”）+struct
+记忆：反对建设---->“阻挠，阻碍”。
+
+（9）obstruction    n.妨碍，障碍
+拆分：ob+struct+ion
+
+eg. The authorities are obstructing a United Nations investigation.
+      当局在阻挠一次联合国调查。
+
+同义词：bar，obstacle，barrier
+
+（10）infrastructure    n.基础设施
+拆分：infra（前缀，表示“次要的，下面的”，由inferior（表示“下级的”）造出了“infra-”）+structure
+记忆：下面的结构就是，在下面建设的---->“基础设施”。
+
+eg.  well study the history of infrastructure in the United States.
+       好好研究一下美国基础设施的历史。
+
+短语：infrastructure development    基础设施发展
+
+（11）instrument    n.仪器；乐器；器械
+拆分：instru（前缀，表示“命令”，由单词instruct（表示“教授、指导、命令”）得到）+ment（n后缀）
+记忆：所有的“仪器；乐器；器械”都是要听指令的东西。
+
+（12）instrumental    a.乐器的；仪器的；有帮助的
+拆分：instrument+al（adj后缀）
+记忆：仪器就是帮助我们干活的---->“有帮助的”。
+
+短语：instrumental  music    器乐曲
+          instrumental   analysis    仪器分析；器械分析
+
+
+
+2、act，ag：    做，行动；驱使
+解释：act表示“行动”，行动就是“做”，使某人做---->“驱使”。有ct版本的就会有g版本的，因此造出了ag。
+
+（1）action    n.行为；作用
+
+eg. Rosenberg，the recipient of a Pulitzer Prize，offers a host of example of the social cure in action.
+      普利兹奖得主罗孙伯格提供了许多正在进行中的“社会治疗”的实例。
+
+短语：in action    正在进行中的，正在运转的
+
+（2）active    a.积极的；活跃的
+n短语：active involvement/participation    积极参与/参加
+
+（3）activity    n.活动；活跃
+拆分：activ（e）+ity（n后缀）
+
+n短语：biological activity    生物活性
+
+（4）activate    vt.刺激；使活动；使产生发射性
+拆分：activ（e）+ate（v后缀）
+
+eg. The gene is activated by a specific protein.    这种基于由一种特异性蛋白激活。
+
+
+
+
+ 
+
+
+
+
+

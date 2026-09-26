@@ -1,0 +1,193 @@
+一、简单句：
+
+1、句子核心：动词
+（1）及物v    ：  必须对象
+（2）不及物v ：  无需对象
+（3）系v        ：  能用be替换
+
+
+2、句子结构：
+（1）主谓宾 ：干什么。如 I miss you
+（2）主系表 ：是什么。如 She is happy
+（3）主谓    ：              如 I cry
+
+总结：3种动词分别对应3种结构，及物V对应主谓宾，不及物v对应主谓，系v对应主系表。
+
+3、主干成分：
+主语、宾语、表语。
+v也可以做主干（即动作也是可以作为主干），即“主语，宾语，表语”。此时需要将v变为“to do”（表示“未完成，一次性”）或者“doing”（表示“习惯持续”）
+
+
+4、修饰成分：修饰主干成分的。
+定语、状语、同位语。
+定语：修饰n的=……的。
+状语：修饰v的=……地。
+同位语：=等于n。
+
+
+二、复杂句（主句，从句，通过“连词”来连接）
+
+主角---修饰
+
+1、主宾表从句：
+（1）从句完整：that
+（2）从句缺人：who（在从句中作“主语”），whom（在从句中作“宾语”）
+（3）从句缺物：what
+（4）从句“需”状语：when where how why
+
+
+2、同位语从句：
+特点1：99%由that引导
+特点2：同从完整
+特点3：等于 抽象名词（如 idea）
+
+3、定语从句：
+（1）修饰人：who whom
+（2）修饰物：that which
+（3）修饰句，表总结：“，which”
+
+特殊1：介词+which
+特殊2：连词 在定从作宾语（可以省略连词）
+
+4、状语从句：修饰主干
+
+
+
+三、3脱法
+1、脱插入语
+
+逗号，修饰，逗号：即两个逗号之间是修饰的成分时，这个修饰成分就是插入语的，可以将这个修饰成分给脱掉。
+
+2、脱 介词短语/to do 不定式
+如 on the desk（介词短语），to love you（to do 不定式），注意，只有当介词短语、to do不定式为修饰成分，即“定语、状语、同位语”的时候才能够将其给去除掉。
+
+3、脱从句 ，找连接词（或者 介词+which）
+
+
+
+3脱法练习：
+
+练习1：
+the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong.
+ 
+通过3脱法来帮助找句子主干（一个句号就是一个句子）：
+（1）脱插入语
+（2）脱介词短语，脱to do
+（3）脱从句
+
+解题思路：没有“逗号，修饰，逗号”的形式，故脱插入语不用管它；句子中没有“to do ”，故不用管它，接下来“脱介词”。句子中介词有3个为“of，for，in”，“of，of B，脱去of以及后面的n”，“for doing sth，故脱去 for doing sth”，“in + 地点 是为一个完整的搭配，故脱去 in+地点”；脱从句，“从连词that到后面的第2个动词is为止，这里都脱掉”。所以主干为“the the conventional view is wrong”。
+
+找出了主干之后就可以更方便地分析句子了：
+the conventional view （主语）；
+
+that education should be one of the very highest priorities （跟在一个n后面，为同位语，符合同位语的3个特征，特征1“99%由that引导”；特征2就是从句完整，本从句为“education should be”，从句完整；特征3就是同位语从句=抽象名词view）；
+
+for promoting rapid economic development in poor countries；（由for引导的可以表原因，可以表目的，本题中表原因，for引导的是为原因状语，修饰整个从句的，翻译时翻译到从句前面）
+
+ is wrong（系+表，所有能够使用“be动词”代替的都是系动词，系动词表示的是“主语是什么”）.
+
+翻译实训：
+传统观点【认为】：
+the conventional view；
+
+教育应该是 最优先的 之一。
+that education should be one of the very highest priorities ；
+
+因为    【教育】   促进  穷国的 快速经济发展。            
+for promoting rapid economic development in poor countries； 
+
+这个观点是错的。
+is wrong.
+
+翻译时同谓语从句与前面的n之间要加上一个“即，是，认为”。
+
+
+练习2：
+Researchers in the US say that children who get more exercise,
+whether at school or on their own, have higher scores on tests.
+ 
+
+解题思路：首先脱掉插入语，即是“两个逗号之间的（whether at school or on their own）”；脱掉介词短语，本句中有2个介词，为 in 和 on，脱掉“in+地点”，故脱掉“ in the US”，脱掉“on tests”；脱从句，找连词，为“that和who”，由于who前为n，故who只能够为“定语从句或者同位语从句”，定语从句和同位语从句都是可以脱掉的，故“主要是位于n后面的从句都将其给脱掉”。
+
+美国的研究者们
+【Researchers】（ in the US） 
+得出结论（说）：
+say 
+
+【that children】 
+锻炼更多的孩子们，           要么在学校                 要么靠自己
+（who get more exercise,whether at school or on their own, ）都是定语，修饰children
+
+在考试中取得更高的分数。
+have higher scores （on tests）状语，修饰v，翻译时放到have前面.
+
+
+练习3：
+The report calls （for） increased investment （in） research, the crafting （of） curricula that improve students’ ability （to solve problems and communicate effectively) （in） the 21st century, increased funding （for） teachers and the encouragement （of ）scholars （to bring their learning）（to bear on the great challenges）（ of ）the day.
+
+单词解决：
+curriculum（单数）课程
+curricula（复数）课程
+
+补充：
+data（复数）
+datum（单数）
+media（复数）
+medium（单数）
+
+increased=more
+crafting    精心制作
+
+总结：a表示复数，m表示单数。
+
+
+解题思路：
+（1）首先是脱插入语，即两个逗号之间的，要注意，两个逗号之间的为修饰成分时才是为插入语的，如果两个逗号之间的不是修饰成分的话则两个逗号之间的就不是插入语，此时就不能够将两个逗号之间的给脱掉，如果搞不清逗号之间的是不是插入语的话，则可以先不动，先进行下一步，就是脱介词短语和to do；
+（2）脱介词：
+① call for increased investment：为谓语+宾语，v宾搭配，不能够脱掉。
+②脱掉  in+sth：in  research、in the 21st century
+③脱掉  of+sth：of  curricula、of scholars 、of the day
+④脱掉 for+sth：for teachers
+
+注意：and前后的两个名词分别为“teachers”和“encouragement”，一个是人，一个是物（抽象名词“鼓励”），二者并不是相近的，故“teachers”与“encouragement”并不是通过and并列的，因此脱掉的应该是“for  teachers”。
+
+⑤脱掉to do：to solve problems and communicate effectively【effectively修饰communicate，故effectively也一并脱掉】、to bring their learning、to bear on the great challenges。
+
+注意：只有to do是为修饰成分的时候才是可以将to do给脱掉的，即是“to do”位于一个n后面的时候则这个 to do就是用来修饰这个n的，即位于n后面的 to do是可以脱掉的。
+
+2脱法后句子变为：
+The report calls for increased investment  , the crafting  that improve students' ability , increased funding   and the encouragement  .
+
+（3）脱从句
+①that后面的从句：由于that是位于n后面的，故that引导的是为同位语或者定语从句的，同位语或者定语从句都是可以脱掉的。
+
+最后变为：
+The report calls for 【1】increased investment  ,【2】 the crafting,【3】 increased funding   and 【4】the encouragement .
+
+结构： 1,2,3, and 4。
+
+
+The report calls for
+①【increased investment】 in research,
+②【the crafting】 of curricula （that improve students' ability） 
+to solve problems and communicate effectively in the 21st century,
+
+提示：that improve students' ability 修饰“curricula”；to solve problems and communicate修饰“ability”，翻译成什么样的能力；effectively 与 in the 21st century 均修饰to solve，翻译到solve前面，注意，to do蕴含有“将来做”的含义。
+
+③【increased funding】 for teachers
+and④【the encouragement】 of scholars
+to bring their learning to bear on the great challenges of the day.
+
+提示：to bring their learning to bear on the great challenges of the day 修饰“scholars”，这些动作是学者将要去做的。
+
+这份报告倡导:
+①增加研究投资
+②精心制作课程表，使其提升学生在21世纪解决问题和高效沟通的能力
+③增加对教师的资助
+④鼓励学者，利用他们的学问，应对当今的巨大挑战
+
+
+注意：这里to bring 动作的发出者是其所修饰的n，即是scholars，是学者把它们的学问带到……。
+
+
+

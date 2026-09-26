@@ -1,0 +1,85 @@
+第5段段落解析：
+1、The companies' 【latest steps】（最新的举措） are 【far】（far修饰比较级，加强程度） more forthright（意思：直接了当的）.
+
+逻辑点：
+（1）第5段只有一句话，就是“过渡句”，对上文总结，对下文概括。(过去相对模糊，不够狠，下面要讲新的举措)
+
+单词：
+forthright		直截了当的
+frotnight		两星期
+
+
+
+第6段段落解析：
+1. The 【Robinhood】 experience is slightly（意思：稍微地） different and therefore instructive（意思：有启发性的，有指导意义的）.
+
+逻辑点：
+（1）这里承接过渡句，讲的是罗宾汉的举措，扫描发现下面没有“苹果，脸书，推特”这些词，说明整段都是罗宾汉的举措。
+
+2. When the【 Depository Trust& Clearing Corp.】（专业名词）demanded that the trading app pony up greater deposits（翻译为“这个专有名词要求这个交易网站付清更高的保证金”，这个专业名词是一个更高级的机构）, it forced the company to 【tamp down】（意思：降低，为不及物，加on才能接名词） on the wild investments（意思：疯狂的投资） emanating from Reddit's Wall Street Bets forum. 
+
+单词：
+pony up		付清
+deposit		存款，保证金
+tamp down	压低，降低，平息
+emanate		v.散发，表现，产生	
+
+注意：
+当一个句子看不懂的时候，划掉修饰成分，保留主干。本句中，划掉“when引导的时间状语从句”，划掉“emanating from Reddit's Wall Street Bets forum”后置定语，剩下主干为“it forced the company to tamp down on the wild investments”。		
+
+3.【The checks and balances】（意思：制约与平衡） in the financial markets that have evolved 【over the course of a century】（意思：在一个世纪的逐渐演变过程中） still seem to work so far, at least.
+
+单词：
+evolve		v.进化，发展，逐渐形成
+
+第6段段落总结：在有关部门制约下，罗宾汉的行动。
+
+
+
+第7段段落解析：
+1、【Such structures】（指代“罗宾汉这种公司采用的这种制约与平衡的体制”） simply do not exist for the tech platforms.（翻译：像这样的结构没有办法单单地存在于科技公司中）
+
+2、They're instead regulating themselves.（翻译：相反，它们监管自身）
+
+逻辑点：
+（1）接下来应该将科技公司怎么怎么样，应该讲“苹果、推特、脸书”。
+
+
+第8段段落解析：
+1. Apple is tempering Facebook's data-grabbing excesses（翻译：苹果公司正在减轻脸书数据采集过量的信息）, while the social media platforms are stomping down on disinformation（意思：虚假的） propagators（翻译：与此同时，社交媒体平台正在打压虚假信息的传播者） .
+
+单词：
+temper		v.使缓和，使温和；n.脾气
+excess		过多，过量
+stomp		跺脚
+propagator	繁殖盒-观点的传播者
+
+2. Perhaps the motivation is to preempt legislation that would（表推测） take these decisions out of their hands.（翻译：很可能动机是取代法律，这个法律可能会从它们的手中拿走决策权）
+
+单词：
+preempt		先发制人 / 取代
+
+
+3. There are real-world impacts: Where Robinhood trading has 【wiped out】（意思：抹去，消除） some 【retail investors' savings】（零散投资者的存款）, social media contributed to the deaths on Capitol Hill.（翻译为“在罗宾汉抹去了零散投资者的存款的情况下，社交媒体又导致了国会山的死亡”）
+
+
+语法点：
+（1）where引导地点状语从句，也是可以表示情况，即“在……情况下”，这里也是为“地点状语从句”的。
+
+第8段总结：网络平台依然不思悔改。
+
+
+第9段段落解析：
+1. History shows that self-regulation has seldom proved effective.
+
+逻辑点：
+（1）seldom是委婉地表达，其实作者就是认为它们没有用，只不过不敢绝对，怕打脸。
+
+2. And overzealous（意思：过分热情的） regulation comes with its own array of problems.
+
+3. The events of this still-young year heighten the urgency of finding appropriate solutions.（翻译：今年尚早的时期发生的这些事件加强了发现恰当的解决方案的紧迫性）
+
+总结：提出建议（提出的建议就是“赶紧解决”）。
+
+全文回顾：互联网公司包含：APP和社交媒体在内 面对新形式的应对措施以及依然存在的问题。
+

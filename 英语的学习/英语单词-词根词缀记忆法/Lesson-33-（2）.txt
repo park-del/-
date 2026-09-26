@@ -1,0 +1,134 @@
+1、equ：    相等的
+
+（1）equality     n.平等；相等
+拆分：equ+al+ity
+
+
+（2）equator    n.赤道
+拆分：equ+ator
+记忆：将地球等分的线---->“赤道”。
+
+（3）equivalent    a.（在价值、数量等方面）相等的；等价的
+拆分：equ+i（连字符）+val（同value，表示“价值”）+ent
+记忆：价值相等的---->“等价的”。
+
+eg.   .…… admitting you regret having children is equivalent to admitting you support kitten-killing.
+       “承认对养儿育女感到后悔”就等同于“承认赞同残忍杀害小猫”。
+
+（4）adequate    a.充足的；适当的
+拆分：ad+equ+ate
+记忆：去与所要求的相等的，去满足所要求的，---->“充足的，适当的”。
+
+eg. The latter may commit crimes for lack of adequate parental control.
+       这些儿童可能由于缺乏足够的父母管教而犯罪。
+
+（5）ecology     n.生态学；均衡系统
+拆分：eco（同equ）+logy（n后缀，表示“学科”）
+记忆：维持平等的学科---->“生态学”。
+
+短语：the fragile ecology    脆弱的生态环境
+
+
+（6）economic    a.经济上的；经济学的；可赚钱的，有利可图的
+拆分：econom+ic
+
+单词：economy    n.经济
+短语：the current economic climate    目前的经济形势
+
+
+（7）economical    a.经济的；节约的，经济实惠的
+拆分：econom+ical（adj后缀）
+记忆：发音带有“抠”的那个是“经济的，节约的”。
+
+（8）economics    n.经济学；国家的经济状况
+拆分：econom+ics（n后缀，表示“学术”）
+
+eg. The economics of the project are very encouraging.
+       这项工程的经济情况非常令人鼓舞。
+
+2、force，fort：    力量，强壮的
+
+（1）force    vt.强迫    n.力；武力；势力
+
+eg. air force    空军
+
+
+（2）forge     vt.锻造；伪造
+拆分：forg+e
+记忆：有力量的捶打---->“锻造”。
+
+eg. He's getting good at forging his mother's signature.
+       他把母亲的前面伪造的越来越惟妙惟肖了。
+
+（3）comfort    vt.安慰，使舒适    n.舒适
+拆分：com+fort
+
+（4）effort    n.努力；尽力
+拆分：ef+fort
+
+
+（5）enforce    v.执行，实施（法律或规定）；把……强加于
+拆分：en+force
+记忆：使你有力量，你能够---->“执行”。使法律有效力---->“实施”。
+
+（6）reinforce    v.增援；加固；充实，强化（观点、看法）
+拆分：re（前缀，表示“再”）+in（前缀，表示“进入，里”）+force
+记忆：再投入力量---->“增援”。为建筑再投入力量---->“加固”。为观点再投入力量---->“充实，强化”。
+
+eg. to reinforce social solidarity
+      加强社会团结
+
+
+3、val，vail：    有价值的；强壮的
+拆分：由单词“value”造出来。
+
+（1）valid    a.有效的；有根据的；合理的
+拆分：val+id（adj后缀）
+记忆：有价值的---->“有效的”。这件事情有价值---->“有根据的”。
+
+（2）invalid     a.无效的；无充分事实的    n.病人；残疾者
+拆分：in+valid
+eg.  The 2002 agreement is invalid.
+        2002年的协议无效。       
+
+（3）avail    v.有用，有帮助     n.效用，利益
+拆分：a（前缀，表示“朝向，去”）+vail
+记忆：去对自己有价值---->“有用，有帮助”。
+
+eg. Guests should feel at liberty to avail themselves of your facilities.
+       客人们可以随意使用你们的设施。
+
+（4）available     a.可获得的，可用到的；有空的
+拆分：avail+able
+
+（5）evaluate    v.评价；估价
+拆分：e+val+u+ate
+记忆：把价值算出来---->“评价；估价”。
+
+（6）prevail    vi.盛行，流行；战胜，获胜
+拆分：pre（前缀，表示“在……之前”）+vail
+记忆：你的价值，你的品牌在别人的前面---->“战胜；盛行”。
+
+eg. Those beliefs still prevail among social groups.    这些观念在某些社会群体中仍很盛行。
+
+（7）prevalent    a.流行的；普遍的，广传的
+拆分：preval+ent（adj后缀）
+
+短语：a prevalent view    普遍的观点
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+

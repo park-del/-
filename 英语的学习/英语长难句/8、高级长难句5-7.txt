@@ -1,0 +1,71 @@
+
+高级长难句5：
+Yet the researcn revealea that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterpart — a result of the training that U.S. workers received on the job.
+
+三脱法：脱掉介词短语“of Honda, Nissan, and Toyota”，脱掉介词短语“of the productivity of their Japanese counterpart”，脱掉插入语“a result of the training that U.S. workers received on the job”。句子主干为“Yet the researcn revealea that the U.S. factories achieved about 95 percent”（研究显示美国工厂实现了95的百分比）
+
+逻辑点：
+（1）the U.S. factories of Honda, Nissan, and Toyota翻译为“Honda, Nissan, and Toyota”这三者的美国工厂，其中“，”“and”都是并列这三个词。
+（2）the productivity of their Japanese counterpart：their指代n，就近往前找n，their为复数，则就近往前找复数n，指代“Honda, Nissan, and Toyota”，“counterpart”是对立物，由于Japanese 与 U.S. 相对应，故counterpart应该指代“factories”，即“Honda, Nissan, and Toyota的日本工厂”。
+（3）A is a result of B：A是结果，B是原因，可以翻译为 A因为B。
+
+Yet the research revealed that
+但是   研究 显示/揭露/结论：
+the U.S. factories of Honda, Nissan, and Toyota
+本田、尼桑、丰田     在美国的工厂
+achieved about 95 percent of the productivity of theif Japanese counterpar
+实现了   日本生产率的    95%左右。
+a result of the training that U.S. workers received on the job.
+这是   因为    美国工人接受了职业   培训。
+
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+高级长难句6
+Opponents of change insist that
+keeping（意思：让） outsiders（意思：外行） 【out of a law firm】（意思：远离律所） isolates（意思：使隔离） lawyers from the pressure
+to make money rather than serve clients ethically.
+
+语法分析：
+Opponents of change 【insist】（主句谓语） that
+反对改革的人		坚持认为：
+
+【keeping outsiders  out of a law firm】（从句主语）  isolates（从句谓语） lawyers from the pressure
+让        外行            远离律所 = 拒绝外行               让律师远离     的压力
+
+【to make money 【rather than】（连接两个并列的成分，前面是to do，则后面也应该是to do）（省略to） serve clients ethically】（to do做后置定语修饰pressure）.
+只顾挣钱        而不    好好服务客户=（唯利是图）
+
+
+逻辑关系：
+现象：律师行业竞争压力大
+建议：拒绝外行    减少从业者
+目的：律师竞争压力减少 --------> 好好服务客户【行业保护】
+
+逻辑关系析：pressure = to make money rather than serve clients ethically，即 pressure 就是“律师好好挣钱，而不好好服务顾客”，前面有“isolate …… from ……”就是远离，相当于是对前面的进行了否定，即律师此时会“不好赚钱，就会好好服务顾客”。
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+高级长难句7
+ 
+The whirlwind（旋风） that 【swept through】（横扫） newsrooms（新闻行业） harmed everybody,
+【but】（but表示递进，不是转折） much of the damage has been 【concentrated】（集中） in areas where
+newspapers are 【least distinctive】（最没特色）.
+
+三脱法找句子主干：脱插入语、脱介词、脱非谓语、脱从句（要注意，脱从句的时候是要先处理后面的从句的，即是从后往前进行处理从句的），本句子中有两个从句，分别由that引导，where引导。先处理后面的where从句，脱去“where newspapers are least distinctive”，然后处理前面的that从句，脱去“that swept through newsrooms”。
+句子主干为：“The whirlwind harmed everybody，but much of the damage has been concentrated in areas.”，这个句子主干由两个句子构成，but连接，句子1为“主+谓+宾”，句子2位“被动语态”。
+
+翻译：
+【The whirlwind】 that swept through newsrooms 【harmed everybody】,
+横扫新闻行业的    旋风       伤害了所有人
+
+【but
+递进=不过
+
+much of the damage has been concentrated in areas】
+大部分伤害                  集中在  （  ）  区域
+
+where newspapers are least distinctive.
+报纸最没特色的
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、

@@ -1,0 +1,125 @@
+一、语法基础：简单句
+1、句子核心
+①及物v = 必需对象 love
+②不及物v = 无需对象 die
+③系v = 能用be替换
+
+2、句子结构
+3基础：
+①主谓宾（什么干了什么）
+②主系表（什么是什么）
+③主谓
+
+
+特殊
+①主谓宾 宾/宾补
+②被动语态
+
+
+
+3、主要成分：
+主语    宾语   表语   |  to do  未完成  doing 习惯 持续
+
+
+4、修饰成分
+①定语=修饰名词
+②状语=修饰动词/句子
+③同位语=抽象名词
+
+
+二、语法基础：复杂句
+1、主宾表从句
+①从句完整：that
+②从句缺人：who（主）、whom（宾）
+③从句缺物：what
+④从句“需”状语：when、where、why、how
+
+
+
+2、同位语从句
+①99% that引导
+②同从完整
+③等于抽象没名词
+
+
+3、定语从句
+①修饰人：who、whom
+②修饰物：tha、which
+③修饰句，表总结：，which
+
+注意：定从 连词 作宾语 可以省略可不省略
+
+4、状语从句
+修饰句子
+
+注意：状语一般是用来修饰 动词、adj的，极少情况下会修饰整个句子，而状语从句一般是用来修饰整个句子的，一般不会用状语从句来修饰一个动词。
+
+
+练习：
+An idea was raised （ ） practice makes perfect.
+分析：主干“An idea was raised”完成，则后面的从句一定是一个修饰，要么是一个定，要么是一个状，要么是一个同；从句“practice makes perfect”很完整，应该不是定从，可能是一个同从，就是“idea”的一个同位语从句。
+
+
+（ ）you visit museums，the amount（ ）you pay is up to you.
+分析：把前面的从句“（ ）you visit museums”，发现后面的句子完成，删不删掉无所谓，能删掉就说明它是一个修饰性的从句，要么是定语，要么是状语，要么是同位语；这个从句“（ ）you visit museums”前后都没有名词，则其应该不是用来修饰n的定语或者解释n的同位语，则就应该是为状语，用来修饰整个句子的。
+
+
+三、语法基础：非谓语动词
+1、定义：动词作谓语之外的其他成分
+2、形式：不定式（主宾表定状同）    动名词（主宾表）   分词（定/状）
+3、分词分类
+现在分词：ing
+过去分词：ed
+4、分词功能：替换定从、状从
+
+
+分词替换状语从句：
+While I was waiting for a bus，I came across my girlfriend.		=	Waiting for a bus，I came across my girlfriend.	
+
+As China develops，we become richer.		=	China developing，we become richer.
+
+注意：当我们用分词替换状语从句的时候，保留的主语就叫做独立主格。
+
+
+
+
+
+四、语法基础：倒装
+完全倒装，部分倒装
+
+
+
+
+五、找主干：
+
+1、三脱法：
+①脱插入语（两个逗号之间为修饰不能删）
+②脱介词短语/to do（固定搭配不能删）
+③脱从句（从句做句子主干不能删，删定语、状语、同位语）
+
+
+2、找谓语：
+①助词+动词
+②动词单三：believes
+③be动词
+④被动语态：be + done +by
+
+
+
+
+终极练习（从简单句------>复杂句------>非谓语）
+当我正在等车时，我偶遇了这位站在人群中的姑娘。
+简单句：
+I am waiting for a bus
+I come across the girl
+the girl stands in the crowd
+
+
+复杂句
+When I am waiting for a bus，I come across the girl who stands in the crowd.
+
+
+非谓语
+Waiting for a bus，I come across the girl standing in the crowd.
+
+

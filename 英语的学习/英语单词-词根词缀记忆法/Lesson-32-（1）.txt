@@ -1,0 +1,116 @@
+-1、circ，cyc：     环
+解释：借助单词“circle”来记忆“circ”。
+
+（1）circuit    n.环形，电路；巡游；（法官的）巡回审判
+拆分：circ+u(连字符)+it（走）
+记忆：电路转着圈走---->“环形，电路”。人们来回转着走---->“巡游；（法官的）巡回审判”。
+
+
+eg. The judges on the Federal Circuit are “reacting to the anti-patent trend at the Supreme Court” .
+       联邦巡回法院的法官们正在“对最高法院的反专利趋势做出反应”。
+
+
+（2）circular     a.环形的；传阅的，大量发送的
+拆分：circ+ul（连字符）+ar（adj后缀）
+记忆：传过去看一看，最后又传回来了---->“传阅的”。有传阅的，就会有---->“大量发送（发行）的”。
+
+短语：a circular tour of the city    环城游览
+
+
+（3）circulation     n.循环；流通；发行，发行量
+拆分：circulat（r变为t，为了与后面的发音相衔接）+ion
+
+短语：wind circulation    气流循环
+          the circulation of ideas    观念的流行
+
+
+（4）circus    n.圆形竞技场；环形交叉路口；马戏团
+拆分：circ+us（n后缀，表示“地点”）
+
+eg. My real ambition was to work in a circus.    我真正的
+
+（5）recycle    v.再循环，再重复利用
+拆分：re（前缀，表示“再”）+cyc+le
+记忆：再转回来--->“再循环，再重复利用”。
+
+短语：recycled paper    再生纸
+
+单词：recyclable    a.可回收再利用的
+拆分：re+cyc+l+able
+
+单词：non-recyclable   a.不可回收再利用的
+
+
+（6）encyclopedia    n.百科全书
+拆分：en（前缀，表示“使动”）+cyclo（表示“圆圈”）+ped（词根，表示“足；走”）+ia
+记忆：走一圈，转一圈---->“百科全书”。
+
+
+2、loc：    场所
+
+（1）locality    n.地区，地方
+拆分：loc+al（adj后缀）+ity（n后缀）
+
+eg. There is no airport in the locality.    这个地方没有机场。
+
+单词：local    a.当地的，地方性的    n.当地人
+
+（2）locate    vt.查找……的地点；把……建在    vi.定位；定居
+拆分：loc+ate（v后缀）
+记忆：使在……地方---->“把……建在”。把人放在……地方---->“定位；定居”。
+
+eg. Aerial surveys locates general areas of interest or larger buried feature，such as ancient building or fields.    航空侦察能定位遗迹的大致区域或者诸如古建筑或场所之类的较大的被埋特征。
+
+（3）allocate     v.拨；划；分配……（给）
+拆分：al（前缀，表示“强调”）+locate
+记忆：使人在某个地方---->“拔；划”。使东西在某个地方---->“分配……（给）”。
+
+eg. More resources are being allocated to the project.    正在调拨更多的资源给这个项目。
+
+（4）allocation    n.分配；拨给的场所；分配的东西
+拆分：allocat+ion（n后缀）
+
+eg. Merrill Lynch got legal protection for an asset allocation strategy.
+      美林证券公司的资产配置策略获得了法律保护。
+
+3、medi：     中间
+（1）medium    a.中间的；中等的；半生熟的    n.媒介；工具；方法
+拆分：medi+um
+记忆：西方吃的牛排---->“半生熟的”。
+
+（2）media    n.媒体；媒介
+拆分：medi+a
+
+注意：这个media是为medium的复数的形式的。
+
+eg. Much of the world's media cultures has been defined by a single medium-television.
+     全球的媒体文化基本被一种单一的媒体----电视-----定义了。
+
+（3）intermediate    a.中间的；中级的
+拆分：inter（前缀，表示“进入”）+medi+ate（adj后缀）
+记忆：进入到中间---->“中间的；中级的”。      
+
+单词：a intermediate coursebook    中级课本
+
+（4）medieval    a.中世纪的（约1000--1450年）
+拆分：medi+ev（词根，表示“时期，年代”）+al（adj后缀）
+
+短语：a medieval castle    一座中世纪的城堡
+
+单词：longevity    n.长寿
+拆分：long+ev（词根，表示“时期，年代”）+ity（n后缀）
+
+
+（5）immediate    a.立即的；直接的
+拆分：im（前缀，表示“否定”）+medi+ate（adj后缀）
+记忆：不经过中间过程的，没有中间环节的---->“立即的，直接的”。
+
+单词：immediately    adv.立即，立刻；直接地    conj. 一……就……
+
+eg. It may be easier to think about such lengthy timescales than about the more immediate future.
+      思考如此长远的时间跨度比思考近期未来更为容易。
+
+
+
+
+

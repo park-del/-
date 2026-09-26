@@ -1,0 +1,149 @@
+But what they're predicting is not only how bad the outbreak could be in terms of workers staying home sick, drops in consumer spending, or supply-chain disruptions; it's also how bad people think it could be.
+
+但是，他们不仅需要预期在当下工人们居家困顿、消费放缓、供应链断裂的情况下，形势的严重程度，还要预期在人们心中事情将变得多么严重。
+ 
+
+前情提要
+1、股市在新冠病毒影响下动荡暴跌
+2、经济形势差，人们对其认知是很重要的
+
+
+
+第3段  段落精析
+1.Public perception of a crisis can be extremely consequential in financial markets.（主旨）
+
+1句：危机的认知在金融市场很重要。
+
+逻辑点：
+（1）第3段的第1句话搞的特别清楚，则对应的第6句话也会迎刃而解。
+
+
+单词：词根ceive，将由这个词根引申出来的单词变成n后为“ception”，变成adj后为“ceptive”
+      v				       n					       adj
+ceive				ception					ceptive
+perceive				perception（认知）				perceptive
+deceive				deception				deceptive
+receive				reception					receptive
+conceive				conception				conceptive
+
+consequential	随之而来、会产生重大结果的、重要的
+
+
+
+2."The notion of a pandemic（意思：全球流行病） is pretty scary to people, and they're going to hunker down and 【be】（注意，这里的be动词并列的应该也是为一个v原型的，因此这个be动词是与前面的“hunker”并列的，而不是与“re”并列的） careful about how they 【live their lives】（意思：过日子）" 【if bleak news continues to roll in】（if条件句，表示什么情况下他们会很谨慎）, says Richerd Sylla, a former professor at NYU's Stern School of Business.
+
+逻辑点：
+（1）双引号是观点句，找到says，says后面的观点就不重要了。
+（2）if条件句是前面一个主句或者一个从句发生的原因的。
+
+句间：2句是对1句的解释，解释1句中的“危机的认知在金融市场很重要”。
+
+
+
+语法点：
+（1）如果把“be careful about”看成是一个“v的固定搭配”，那么后面的how就是“be careful about”整体的宾语。
+
+
+单词：
+notion：信念、挂念、理解
+bleak：凄凉、萧条的、无望的，悲切的，暗淡的，悲惨的
+hunker down	蹲下来（本义是蹲下来）
+roll in		纷至沓来，涌现
+
+3. They may, for instance, start to 【skip vacations】（意思：跳过假期---->不度假） or 【dine out】（意思：外出用餐） less.（解释）
+
+逻辑点：
+（1）“不度假”、“少外出用餐”、“谨慎地过日子”都是“人们低调（hunker down）的表现”，即“例子是为观点服务的”，第3句的例子就是对第2句的观点服务的。
+
+
+4. 【Airlines】（航空公司，对应了第3句中的“不度假”） and 【restaurants】（饭店，对应了第3句中的“少外出用餐”）, in turn（随之而来，表示顺承关系）, might（有可能，推测） lose revenue（意思：收入） or even limit service because of what（what指代“不度假”和“少外出用餐”） 【they】（指代“Airlines”与“restaurants”） think their customers will do.（例子）
+
+语法点：
+（1） becanse of 后面不能接一个普通的句子，但是可以接一个n性从句。because of  是为一个介词，后面接“n、代词宾格、n性从句”。
+
+5.All of 【this】（代指上文提到的“情况”） combined would carry negative consequences for the economy, regardless of how catastrophic the direct impact of the disease actually turns out to be.（例子）
+
+理解点：
+（1）regardless of 是为一个介词的，后面引导的是为一个让步状语的。所谓“让步状语”的意思就是就算没有“让步状语所指明的句子发生”，主句也是会发生的。
+本句子中就是“不管疾病（这里代指疫情）的直接影响最终会带来多大的灾难，所有这些情况（指的就是“不度假，少外出聚餐”都会对经济造成一个负面影响）”。
+（2）主句的时代为“would”，是为（过去将来时的），表示站在过去展望将来。
+
+
+语法点：
+（1）介词短语 后面是可以加“n性从句”的，但是不能够加“that引导的n性从句”，“特殊疑问词引导的n性句都ok”。
+
+单词：
+regardless of	介词短语. 不管，无论
+catastrophic	灾难性的（大纲没有要求，了解一下即可）
+
+
+6.“What people are thinking, even if it's wrong, maybe 【matters more】（意思：更重要） 【on a day-to-day basis】（在日复一日的基础上） [in the stock market]（尤其在股市） than what the truth is," Sylla said.（重述观点）
+
+
+第3段单词汇总：
+perception 			n. 认知
+consequential [konsIkwenfl] 		adj. 随之而来、会产生重大结果的、重要的
+notion 				n. 信念、挂念、理解
+bleak [blick] 			adj. 不乐观的、无望的、暗淡的、阴冷的、荒凉的、索然无味的
+hunker down			保持低调
+roll  in				纷至沓来
+skip				略过、跳过
+revenue				财政收入、收入
+combined			总体、 一起
+negative				负向的
+regardlessof			尽管
+catastrophic [kaet' strofk]		灾难性的
+
+第3段段落总结：公众恐慌意识对经济的影响---至关重要的。
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+第4段段落逻辑
+
+1. What investors think （省略了that）the public is thinking is therefore（用来“承上启下”，由于上文公众认知很重要，所以这里“投资者认为公众想啥是很重要的”） crucial.（观点，投资者的观点）
+
+
+
+
+2. 【Whether the costs of the outbreak turn out to be historically large or not】（意思：无论这场爆发的成本从历史上来看是大还是小）, there is a risk 【that】（从句结构完整，that引导同位语从句，表示这个具体的风险是什么） investors' worries will snowball during this period of uncertainty, leading them to panic-sell and exacerbate any financial damage.（紧接着的这一句话应该就是解释上面的观点）
+
+
+
+语法点：
+（1）whether    A    or not    B    ：不论 A情况 还是 B情况。
+
+
+单词：
+snowball		v.不断增加（滚雪球）
+panic-sell		贩卖焦虑
+exacerbate	vt.加剧
+
+3."If in the next 20 years [the economy is] only going to be disrupted for three months, 【that】（that指代前面if条件从句中的内容，即“在未来的20年中经济仅仅只被破坏持续3个月”） suggests a very small impact on the market," says Robert J. Shiller, a Nobel Prize-winning economist and the author of Narrative Economics: How Stories Go Viral and Drive Major Economic Events.（双引号，借用牛人的观点解释观点，举例子）
+
+注意点：
+（1）that 放前面不一定是从句的引导词，that还可能是为一个指代词。
+ 
+
+
+4. But 【the situation could be much worse】（意思：情况可能糟糕得多）, and when investors think in“grandiose terms," Shiller told me, 【that】（指代“投资者用浮夸的术语思考”这件事） could "trigger other worrying.”（双引号，借助牛人的观点解释观点，举例子）
+
+
+单词：
+grandiose		adj. 浮夸的、不切实际的
+trigger			vt. 引发，导致
+扩展词：provoke、arouse、evoke		引发、导致
+
+第4段段落总结：
+投资者心态和对经济形势的认知同样重要。
+
+
+第4段单词汇总：
+snowball 			vi.滚雪球般迅速增大
+uncertainty 		n.不确定性
+panic-sell 		v.恐慌性抛售
+exacerbate [g' zaesabert]	v.使恶化、急剧
+disrupt 			v. 破坏、打破
+grandiose [graendieus] 	adj. 不切实际的、浮夸的
+trigger			vt.引发
+
+

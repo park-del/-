@@ -1,0 +1,115 @@
+
+初级长难句1：
+The decision to quit（意思：戒断；离开；辞职） a senior position（意思：职业） to look for a better one（就近原则，one指代position） is unconventional（意思：非传统的）.
+
+position的同义词：
+post，occupation，vocation（不同于vacation“度假”，巧记：啊--->度假，哦---->工作）
+
+技巧：
+（1）one：指代一个单数的东西，就近原则往前找到的第1个n单数往往就是one指代的。
+（2）指代，如one，they，he，统统根据就近原则往前找。
+
+语法解析：
+The decision 【 to quit a senior position】（可以理解为修饰decision，当前面的n为抽象n，如本题中的decision中时，也可以理解为同位语，即“ to quit a senior position=decision ”） 【to look for a better one】（可以理解为“ to quit a senior position=decision”） is unconventional.
+
+翻译：辞去高级职位，然后去寻找更好职位的决定是非传统的。
+
+三脱法：脱插入语；脱 to do；脱介词短语，注意look for 为固定搭配，不能够拆开来当成介词短语来脱。剩下的就是主干，为5种简单句中的一种。
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+初级难句2：
+【In recent weeks】 the No.2 executives 【at Avon and American Express】（大写的专业名字脱掉，and并列两个大写的） quit（为不及物v） 【with the explanation】 【that they were looking for（注意，这里的介词是为v的固定搭配，不能够脱掉） a CEO post】.
+
+三脱法：首先没有插入语（两个逗号之间的），然后脱介词，找介词（一眼扫过去将介词都给划出来），分别是“In”“at”“with”。最后脱从句，找连接词（一眼扫过去，将连接词给划出来），为“that”，则将“that后面的从句”给脱掉。
+
+语法解析：
+【In recent weeks】（不是位于n后，且不是做主语、宾语、表语，故做状语，修饰句子或者v，翻译时放在v前更加顺畅，则其就是修饰这个v的） the No.2 executives 【at Avon and American Express】（修饰 executives） quit 【with the explanation】（为“介词+sth”“to do sth”“从句”三者中的一种，不是位于n后，且不是做主语、宾语、表语，则“介词+sth，即 with the explanation”就一定是做状语，修饰整个句子或者v，翻译时发现放在句子前面更加顺畅，则其就是修饰整个句子的） that they（就近原则，指代“ executives ”） were looking for a CEO post.
+
+
+翻译：最近几周，Avon和American Express 的 二把手/高管 离职，理由是/原因是：他们正在寻找首席执行官的工作。
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+初级长难句3：
+Alex Ross, 【①a classical-music critic】（脱插入语）, described him（指别人，第3者） as（为describe sth as固定搭配） a man 【who is capable of（固定搭配） turning the Philharmonic into（turn sth into s 固定搭配） a markedly different and more vibrant organization】（③脱从句）.
+
+语法点：
+（1）主句为一般过去时“described”，从句为一般现在时“is”，因为“described”这个动作发生在过去，“is capable of”表示有能力，这是一个客观事实（不能昨天没有能力，今天有，故用一般现在时）。
+
+
+逻辑词：
+（1）as，into：相等关系。
+ him as a man：him =（是）a man
+ Philharmonic into a organization ：Philharmonic=（是）organization
+
+翻译：
+Alex Ross, a classical-music critic（“=”，为“Alex Ross”同位语）, 
+古典音乐评论家 Alex Ross
+
+described him as a man （由于him与a man可以通过be动词连接，故这里的 a man 是为him的补语；补充说他是一个人，什么样的人就是定语从句）
+描述他是这样的人
+
+who（定语从句，修饰man，什么样的人） is capable of turning the Philharmonic into 
+他                                    		   有能力	        把爱乐乐团变成组织
+
+a markedly different and more vibrant organization.
+非常不同且更有活力的组织。
+
+翻译技巧：
+（1）在考试的时候如果adv不认识的话，统一当成very，80%的情况的副词都是程度副词。
+
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+初级长难句4：
+
+The decision of the New York Philharmonic to hire Alan Gilbert as（as这里不为“=”关系，为“作为”） its（就近原则，指代“New York Philharmonic's ”） next music director （意思：n.总监）has been the talk（意思：n.话题） of the classical-music world（意思：n.行业） ever since（为prep） the sudden announcement of his（his表示人，就近找人，就是“New York Philharmonic”） appointment in 2009.
+
+推词逻辑：
+（1）his appointment 如果appointment不认识的话，就可以根据“就近找人”的原则找出“his”指代Alan Gilbert，此时这个“appointment”动作就是“Alan Gilbert”的动作，Alan Gilbert前面是“hire（雇佣）”，则这个“appointment”应该也是“雇佣”的意思。（原理：阅读中常常会同一个人相同动作替换不同词，来达到考察多个同义词）
+
+翻译：
+《1》没有插入语；
+《2》首先找出介词（固定搭配的介词不用）：
+The decision 【of】 the New York Philharmonic to hire Alan Gilbert as its
+next music director has been the talk 【of】 the classical-music world
+【ever since】（注意，ever since也是介词） the sudden announcement 【of】 his appointment 【in】 2009.
+
+确定介词范围：
+The decision 【of the New York Philharmonic】 to hire Alan Gilbert as its
+next music director has been the talk 【of the classical-music world】
+【ever since the sudden announcement】 【of his appointment 】【in 2009】.
+
+找to do sth，并划掉to do sth（同时清楚 to do动作的发生者）：
+The decision 【of the New York Philharmonic】 【to hire Alan Gilbert as its
+next music director】（这里是为to do修饰间接抽象n，to do为间接抽象n“decision”的同位语） has been the talk 【of the classical-music world】
+【ever since the sudden announcement】 【of his appointment 】【in 2009】.
+
+注意点：
+（1）“to do sth”“从句”可能够做间接抽象n的同位语，此时“to do sth，从句 = 间接抽象n”。
+
+
+逻辑点：
+（1）of与to都可以修饰n，of修饰时表“所属”，of后的内容为“主体”，of前的内容为“主体的什么”；to指内容，to后的内容就是为所修饰的抽象n的内容。
+如. the decision of a good boy to love a beautiful girl.    
+     一个好男孩决定爱上一个漂亮姑娘。（of后为主体，小男孩的决定；to后为内容，什么决定）
+
+翻译技巧
+（1）翻译时可以打破结构，如将上面翻译成“一个好男孩决定爱上一个漂亮姑娘”，将“n决定”翻译成了“v决定”。
+
+翻译：
+The decision of（of表示所属，of后是主体，of前是主体的什么） the New York Philharmonic
+1）NYP决定
+
+to（to表示决定的内容是啥） hire Alan Gilbert as its next music director
+雇佣 Alan Gilbert 担任乐团下一任音乐总监。
+
+has been the talk of the classical-music world
+2）这个决定（补充主语）一直（完成时态翻译成一直，因为完成时的动作为持续的动作）受到 古典音乐界的 讨论。
+
+ever since the sudden announcement of his appointment in 2009.
+3）自从2009年（时间前放） 突然宣布   任命他。
+
+注意：由于第3句为时间状语，是修饰一个句子或者v的，这里是修饰第2句，故翻译的时候要调整顺序，将第3句放到第2句前面。

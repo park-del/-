@@ -1,0 +1,108 @@
+
+The financial crisis has made it more acceptable 【to be 【between jobs】（为短语，待业） or to leave a bad 【one】（one为指代词，就近往前找n，这里指代job）】（or为并列连词，并列两个to do，一并脱掉）.
+
+三脱法：没有插入语，没有介词短语，接下来脱to do，or为连接词，前后对称，这里是前后都是为to do，故这里将其一并脱掉，没有从句。
+
+语法点：
+（1）it做形式宾语，宾语太长了，所以后置，真正的宾语为后面的to do不定式。
+
+翻译：
+金融危机让 待业 或者 离开一个糟糕的工作 更加可以接受。
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+中级长难句：
+
+
+It can't when 【so many more】 employers have 【so much more】 access to 【so much more】 above average 【cheap】 foreign labor, 【cheap】 robotics, 【cheap】 software, 【cheap】 automation and 【cheap】 genius.
+解析：这个句子中有3个更多，5个cheap，3个更多的并列，5个cheap的并列。将3个更多排列着放，5个cheap排列着放，如下面翻译的那样会更加方便看，也会更加容易理解。
+
+逻辑点：
+（1）It can't = 省略=重复前句。
+
+翻译：
+when so 【many more】（更多，+可数n） employers have So much more（更多，+不可数n） access to so much more
+当更多老板                                                                                有更多途径                            接触   更多的
+
+above average.（合并同类型，将高于平均水平的，廉价的，合并为“物美价廉的”）
+高于平均水平的
+
+①cheap foreign labor,  廉价外国劳工
+②cheap robotics,  廉价机器人
+③cheap software, 廉价软件
+④cheap automation 廉价自动化
+⑤and cheap genius. 廉价人才
+
+逻辑点：
+（1）这一句表述的是“社会人才技术物美价廉”，说明了竞争压力大。
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+中级长难句3：
+【The Heart of the Matter】（意思：问题的核心）, the 【just-released】（意思：刚刚被发布） report by the American Academy of Arts and Sciences (AAAS)， 【deserves】（意思：双关语，可以翻译为“值得”，可以翻译为活该） praise 【for】（意思：因为） 【affirming】（意思：肯定） the importance of 【the humanities and（这里and后面为n，则其前面也是n，并列的是两个n） social sciences】（意思：文科） 【to】（表示对象，翻译为“对于”，这里的“to”后面是为n的，因此不是不定式，是介词） the prosperity and security of 【liberal democracy】（意思：自由民主） in America.
+
+单词点：
+（1）prosperity，thrive，flourish，boom 都是表示“繁荣昌盛”。
+
+语法点：
+（1）标题书写三大原则，如标题“The Heart of the Matter”。
+① 首尾大写，如“The，Matter”。
+② 实词大写，如“Heaert”。
+③ 虚词小写，如“of，the”
+
+
+逻辑点：
+（1）importance of A to B：A对B很重要。（of和to都是修饰importance的，其中of表示的是importance的主体，即“谁的重要性”，其中to表示的是importance的对象，即“对谁的重要性”）
+
+
+翻译：
+The Heart of the Matter, （是斜体的，说明是一个书名，应该加上书名号）
+《问题的核心》
+the just-released report （同位语，=名词，可翻译为“是”）
+第1句：是  AAAS  刚刚发布的报告。
+
+by the American Academy of Arts and Sciences (AAAS)， 
+
+deserves praise 
+第2句：该报告值得称赞。
+
+for affirming the importance （原因状语，修饰v）
+第3句：该报告   肯定了      文科  对  美国自由民主的繁荣安全的重要性。
+ 
+of the humanities and social sciences （修饰importance，表示所修饰的importance的主体，即什么什么的重要性）
+
+to the prosperity and security of liberal democracy in America.（修饰importance，表示所修饰的importance的对象，即对什么很重要）
+
+翻译技巧：
+（1）一个动词=1句话。上述中，released、deserves，affirm都是为v，因此应该翻译成3句话。
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+中级长难句4：
+【A string of】（意思：一系列，为固定搭配，利用三脱法不能够脱of） accidents, including the partial collapse（意思：坍塌） of a cooling tower in 2007 and the discovery of an underground（意思：地下的） pipe（意思：管道） system leakage（意思：泄漏）, raised（意思：引发） serious questions（意思：质疑） about both 【Yankee's safety ,and Entergy's management】（逻辑点）.
+
+逻辑点：
+（1）由“安全”上升到“管理”层面。应该是由一个项目的安全问题上升到公司的管理层问题，即“Yankee”为一个项目名，“Entergy”是为一个公司名。
+（2）including+例子，including后面的就是例子，翻译为“比如/包括”。
+
+单词点：
+（1）a train of，a series of，an array of，a range of ，均表示“一系列”。
+
+翻译：
+A string of accidents, 
+一系列事故
+
+including the partial collapse of a cooling tower in （of介词短语，in介词短语 都修饰 collapse，of先修饰，故先翻译在collapse的前面，in后修饰，故in翻译在of修饰的前面）
+比如/包括：        1）2007年 一座冷却塔的  部分坍塌
+
+2007 and the discovery of an underground pipe system leakage, （of介词短语修饰discovery）
+	          2）发现地下管道系统泄露。
+
+raised serious questions 
+这   引发大家  强烈  质疑
+
+about both Yankee's safety ,and Entergy's management.（about引导介词短语，修饰questions，about表示对象，即questions“质疑”的对象）
+Yankee的安全     和   Entergy  的管理。
+
+翻译点：
+（1）句子中的每一个V（表V的词，可以是为n，v-ing，v-ed）都是有一个发出者的，每个v翻译为一句话，在进行翻译v的时候可能需要补主语（v的发出者）。如在翻译“question”这个v“质疑”的时候，就补充了质疑这个v的发出者“大家”。

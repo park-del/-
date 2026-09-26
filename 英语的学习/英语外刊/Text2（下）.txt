@@ -1,0 +1,173 @@
+
+第5段段落解析：
+
+1. To test this idea, we 【examined】（意思：检验） whether highly entitled people were more likely to get angry when they experienced minor bad luck.
+
+逻辑点：
+（1）to test this idea：this idea是第4段中所提到的“坏运气---->愤怒”这个观点，这里进行了承上启下，告诉我们为了检验这种想法（观点），我们要干嘛干嘛。
+（2）examined：意思为检验，不是观点动词，后面接的是“实验过程”，说明这一句为实验过程，不重要。
+
+2. As part of our 【study】, about 【200 participants】 were asked to agree or disagree with statements such as "Things should go my way," as a commonly used measure of their psychological entitlement.
+
+逻辑点：
+（1）出现了单词“study”（研究），既然牵涉到了单词“study”，则这一句应该 要么是观点，要么是实验过程，发现没有观点动词，则该句为实验过程，依然不重要。
+
+3. We 【also】（表示“递进，并列”） asked them to report their expectations regarding their personal luck.
+
+逻辑点：
+（1）also：表示也，和前一句是“递进 或者 并列”的关系，既然第2句是实验过程，则第3句也是实验过程，也不重要。
+
+4. 【The participants】 then were told that they had been "randomly" assigned to complete a dull task (counting letters in a paragraph) rather than a fun one (rating a comic strip).
+
+逻辑点：
+（1）定冠词 the +n 表示特指，特指前面提到过的“人 或者 事 或者 物”，这里为“The participants”，participants 在前面第2句中提到过了，表示的是那些参与了实验过程的人，这里是“这些参与了实验过程的人”做了主语，就是这些“这些参与了实验过程的人”怎么怎么样了，该句仍然不是观点（结论），不重要。
+
+5. Before beginning the boring task, 【participants】 indicated the degree to which it felt unfair that they had to complete this task, rather than rate the comic strip, and the amount of anger they felt in response.
+
+逻辑点：
+（1）第5句的主语仍然是 participants，仍然不是观点（结论）。
+
+6. As predicted, we 【found】 that more entitled people expected better luck, and felt cheated, and in some cases angry, that they had been given the dull（意思：枯燥的，无聊的，乏味的） task.
+
+逻辑点：
+（1）观点动词found，后面接的宾语从句的就是“结论、观点”表述。
+
+技巧：
+（1）分总结构的段落可以先看总的那一句话，然后再往前面看，会更加清楚。
+
+
+段落逻辑分析：
+（1）我们通常的段落就是第一句是观点，然后后面用“例子解释”去支撑这个观点（总分结构），这一段是反过来的，这一段是花了5句话阐述了一个实验，第6句话总结，通过以上实验，我们发现了什么什么，来验证上面实验提到过的内容（分总结构）。
+
+
+第5段逐句精析：
+1. To test this idea, we 【examined】（意思：检验） whether highly entitled people were more likely to get angry when they experienced minor（意思：小的，极小的，少数的） bad luck.
+
+语法点：
+（1）To do结构 在开头的两种情况：
+① To do + 谓语（多为be）：to do 做主语。
+② To do sth，句子 .  ：to do做目的状语，也即是原因，表示为什么要进行后面这个句子的动作。
+
+
+
+2. As part of our 【study】, about 【200 participants】 were asked to agree or disagree with statements（意思：观点，说法，陈述） such as "Things should 【go my way】（意思：按我的方式做）," as a commonly used measure of their psychological entitlement.
+
+语法点：
+（1）as引导的永远为修饰成分，直接划掉。本句子中有两个as（除去固定搭配 such as），都直接划掉就可以了。
+（1）第1个as为介词（翻译“作为”），相当于是介词短语做状语，是后面的句子“作为”；第2个as 为介词（翻译为作为），as引导介词短语做状语，是前面的句子作为。
+
+逻辑点：
+（1）such as：后面的都是例子，无论什么情况，都是可以划掉的。起到解释说明前面的 statements 的作用。
+
+
+3. We 【also】（表示“递进，并列”） asked them to report their expectations 【regarding】（意思：关于，等于about，表示对象，先相当于 regarding=about=to） their personal luck.
+
+4. 【The participants】 then were told that they had been "randomly" assigned（意思：指派，分配） to complete a dull task (counting letters in a paragraph) rather than a fun one (rating（意思：评估，评价） a comic strip（意思：漫画书）).
+
+语法点：
+（1）“ ：”“  such as ”“ ，，”“ —   — ”“（ ）”都是表示解释说明前面的n的作用，相当于是前面n的同位语结构。
+
+5. Before beginning the 【boring】（=前面的boring） task, 【participants】 indicated（意思：表明，表示，阐释。观点词） the degree 【【to which】（定语从句，可以直接划掉） it（形式主语，真正的主语为后面的that从句） felt unfair that they had to complete this task】,【 【rather than】（rather that引导比较状语，为修饰，去掉） rate the comic strip】【, and】（引导两个并列的，且相对独立，故后面的 the amount 与 the degree 并列，而不是与 the comic strip 并列） the amount 【【of】（of后面的为修饰成分，修饰 the amount，可以直接划掉，不看） anger they （定语从句连接词做宾语可以省略，这里省略that）felt in response】.
+
+语法点：
+（1）见到 介词 + which 的结构，90%都是定从，修饰前面的n，找主干时直接可以划掉不看，且 介词+which 中which就是前面所修饰的n，分析定从时要将which替换为前面的n。
+（2）定语从句中关系词（如 who，that，when，where）是必须充当成分的，n性成分（如充当从句的  主语，宾语  等），状语性成分（如充当从句中的 介词短语做状语）中是肯定要当一个的。
+
+翻译：
+在开始这项枯燥的任务之前，受访者暗示了“它们不得不去完成这个任务，而不是去评估漫画书”这件事的不公平程度，以及它们是有多么的生气（作为回应）。
+
+拆分：
+ the degree to which it felt unfair that they had to complete this task, rather than rate the comic strip。
+
+转换为下面的：
+ it felt unfair to the degree  that they had to complete this task, rather than rate the comic strip.
+ that从句感觉不公平到了某种程度
+
+逻辑点：
+（1）A，and B：，and结构引导两个并列，且相对独立的结构（即“，and后面的是一个小句”或者“与前面的形成一个很大的并列”）。这里的相对独立指的意思就是“，and引导的两个并列是为一个大的并列，而不是一个小的并列”，大的并列就是“主+谓+n+定（定从中最后一个词为n），and+n”此时的这个and后的 n 与前的谓语后面n并列，小的并列就是指and后面的 n 与前面的定语从句中最后的n 并列。
+
+6. 【As predicted】（as引导的都是修饰成分）, we 【found】 that more entitled people expected better luck, and felt cheated, and 【in some cases】（副词，修饰后面的adj，放在adj前面） angry【, that】（这里是found的第2个that，是与前面的那一个that并列的） they had been given the dull（意思：枯燥的，无聊的，乏味的） task.
+
+
+语法点：
+（1）介词短语是可以做为副词的，此时 修饰v 或者 修饰句子 做状语，放在句子末尾，或者句子开头；但是副词也是可以修饰adj的，即介词短语是可以修饰adj的，此时这个介词短语是放在这个adj前面的。
+
+逻辑点：
+（1）并列结构分析技巧：可以从时态（V的过去时，现在时，过去分词），词性（n，adj，v）入手来分析谁与谁并列。
+如：本句中的，“, and felt cheated”后的是为“动词felt，且是为过去式的”，则and前面与其并列也应该是“过去式的v”，往前面找可以为“found，expected”，仔细分析之后应该是“felt 与 expected 并列”，“felt 与 expected”的主语都是为 entitled people 的；“，and in some cases angry”中and后面的为“angry”，为“adj”，则and前面的也应该是为“adj”，发现这里是为“angry 与 cheated 并列”。
+
+
+第5段单词总结：
+minor 		adj. 较少的 、轻微的
+participant	n.参与者
+regarding 	prep. 涉及、关于、就....而言
+randomly 	adv. 随机地
+assign 		v.分派、指定、派遣
+strip 		n. 连环漫画
+indicate 		v.表明显示
+in response	作为答复、作出反应.
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+第6段段落解析：
+1. Across our studies, we 【found】（观点词） that people with an inflated sense of entitlement were more likely to get angry about bad luck, as if it were a personal injustice and the cards were purposely stacked against them.
+
+
+2. 【We' ve】（讲故事） all encountered people like this, who exhibit very high levels of psychological entitlement.
+逻辑点：
+（1）We've：我们曾经怎么怎么样。完成时通常是用来进行“讲故事，讲一个事件”
+
+3. 【And when】（讲故事） they 're your co-workers, family members and even elected leaders, entanglement is unavoidable.
+
+逻辑点：
+（1）And when A：当时A怎么怎么样。这里也是在“讲故事，讲一个事件”。
+
+4. In 【these situations】（指的就是2,3句的情况）,【 it's best to 】remember that that the entitled person's anger doesn't necessarily mean that you or anyone else has wronged them.
+
+逻辑点：
+（1）it's best to ……  ：最好什么什么，表示一种“建议”。
+
+5. Although we can sympathize, their sense of victimization and outrage 【may】 simply be due to getting dealt a bad hand rather than the great one they feel they deserve.
+
+逻辑点：
+（1）may 表示一种“推测”或者 一种“情感”。
+
+第6段逐句解析：
+1. Across our studies, we 【found】（观点词） that people with an inflated（意思：膨胀的） sense of entitlement were more likely to get angry about bad luck, as if it were a personal injustice and the cards were purposely stacked（意思：堆积，堆） against them.
+
+逻辑点：
+（1）as if …… ：就好像是。as if 后面接的是一种“不太可能的假设”。
+
+
+2. 【We' ve】（讲故事） all encountered people like this（究竟原则往前找，这里指代第1句话（前一句）中提到的“因为坏运气生气的人”）, who exhibit（意思：表现出） very high levels of psychological entitlement（意思：自负）.
+
+
+3. 【And when】（讲故事，这里是when引导的时间状语从句） they（指代前面提到过的“自负的人”） 're your co-workers, family members and even elected leaders, entanglement（意思：纠缠，牵连，交集） is unavoidable.
+
+4. In 【these situations】（指的就是第3句所提到过的“不可避免的情况下”）,【 it's best to 】（提建议）remember that that the entitled person's anger 【doesn't necessarily mean】（doesn't mean 整体才是为谓语的，加上necessarily就是“不一定意味着”） that you or anyone else has wronged them.
+
+5. Although we can sympathize, their sense of victimization（意思：受害） and outrage（意思：愤怒） 【may】 simply 【be due to】（意思：源于） getting dealt a bad hand rather than the great one they feel they deserve.
+
+
+第6段单词汇总：
+inflated [In flertrd] 		adj夸张的、 言过其实的
+injustice 			n.不公平、冤枉
+purposely 		adv. 故意地
+stack 			v.码、堆叠
+encounter 		v. 面临、面对、遇上
+exhibit 			v.表现出
+entanglement 		n. 纠缠、瓜葛
+victimization [,vktmarzerJen] n.迫害、牺牲、受迫害
+outrage 			n.出离愤怒
+be due to			源于
+
+
+ 
+全文段落总结
+1. 铺垫引入坏运气和不公
+2. 提出主旨-entitled people更容易生气
+3. 分析愤怒的来源
+4. 愤怒的用处
+5. 借助实验，明确有权利的人面对坏运气的反应
+6. 结论：自视甚高者，易怒!（不支持这种行为）
+

@@ -1,0 +1,76 @@
+
+中级长难句5：
+It may be easier to think about such lengthy（意思：长期的） timescales（意思：时间段） than（省略了to think） about the more immediate（意思：更近的） future. [ 省略结构]
+
+省略理解：than表示并列的结构，表示两者相进行比较，这里是to do 与to do结构进行比较，只不过是than后面的to do被省略了。其实本质上就是
+to do A may be easier than to do B。由于这里作为主语的to do为“to think about such lengthy timescales”太长了，故改为了形式主语的形式。
+
+
+
+翻译：
+It may be easier 
+to think about such lengthy（意思：长期的） timescales（意思：时间段） 
+思考如此                    遥远的未来
+than 
+比
+（to think）about the more immediate（意思：更近的） future. [ 省略结构]
+思考更近的未来         更容易。
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+中级长难句6：
+Knowing what you're good at and doing even more 【of it（就近往前找其指代的，这里就是为“what you're good at ”）】（脱掉，用来修饰more的，表示“什么的更多，即更多什么”） creates excellence. (找谓语动词;找并列)
+
+分析：三脱法找主干，首先脱插入语（没有），然后脱介词，由于be good at固定搭配，不能脱掉脱掉“of it”，没有to do，最后脱从句，这里从句不是为定语从句或者状语从句，从句不是做修饰成分，故从句不能够脱掉。
+
+句子结构分析：三脱法后还是不太容易找主干，这里有并列词and，先看and后面的在看and前面的看与谁并列，这里and后面的为doing，则and前面的也应该是为doing，应该与knowing并列。有3个动词，knowing，doing，creat，由于v-ing不能够做谓语，这里的谓语为creat。句子结构为 “主语1 and 主语2 + 谓语 +宾”。
+
+注意点：这里 it 指代的就近往前找，为 “what you're good at”，即这里的it指代的是一个n性从句（宾语从句）。即it不仅可以指代n，也是可以指代n性从句的。
+
+翻译：
+Knowing what you're good at
+了解/知道  你擅长的事情（特长）
+
+and
+同时
+
+doing even more of it
+重复   它（指代“what you good at”，指代特长）
+
+creates excellence.
+这   创造卓越
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+中级长难句7
+He tells 【the fashion industry】（意思：时尚界） that（宾语从句完整，所以用that引导，此时这个that可以省略） it（往前找n，it指代“the fashion industry”，即“时尚界”） must 【take responsibility for】（固定搭配） the signal it（往前找n，这里it指代“the fashion industry”，为“时尚界”） sends women, especially 【teenage girls】（意思：少女。为插入语，为women的补充说明）, about the social 【tape-measure】（标准） they must（注意，这里must表示“必须”，表示推断，表示“一定会”） use to determine their individual worth.
+
+三脱法找主干：首先脱掉插入语（两个“逗号”之间的，一般是对前面n的补充）“especially teenage girls”；脱介词（不是固定搭配的），脱掉“about the social tape-measure”，脱掉to do（不是固定搭配的），脱掉“to determine their individual worth”；脱从句，这里省略掉了连词的两个定语从句（通过v确定出这是一个从句，而且从句却宾语，脱掉连词，确定出这是一个定语从句，最后看一下其前面都是为连词，验证了这是一个定语从句，是定语从句就脱掉），脱掉两个省略了连词的定语从句“it sends women（send sb sth，缺少宾语sth）”“they must use（use sth，缺少宾语）（注意，是没有use to do的搭配的，故后面的 to determine their individual worth 不为use宾语）”。三脱法后变成“He tells the fashion industry that it must take responsibility for the signal”，这里用到了 He tells sb sth 双宾语的结构，某人sb 知道了 后面的sth。
+
+语调：这里是作者讲述的，统一用的是第3人称的形式，作者讲的是第3个人（社会中的一个人），一个时尚界，都是第3人称的。
+
+技巧：v的固定搭配统一当做v来处理，即这句里面的固定搭配“take responsibility for”统一当成v，it往前找n时，不应该找它，即不找“responsibility”。
+
+语法点：
+（1）must：可以表示“必须”，可以表示推断，翻译为“一定会”。
+（2）判断是 主+谓+宾语1（sb）+宾语2（sth）还是 主+谓+宾+宾补：在宾语后面加上 is（复数为are），看是否讲得通，讲得通就是“主+谓+宾+宾补”结构，讲不通就是“主+谓+宾语1（sb）+宾语2（sth）”。“主+谓+宾+宾补”后面的宾语是用来修饰宾语的，是用来表示宾语的状态，性质的（即 宾语是什么），“ 主+谓+宾语1（sb）+宾语2（sth）”中的 宾语1 与 宾语2 是相对独立的。
+
+技巧（重要）：
+（1）一个从句不仅把连词给删掉了，而且从句中还缺少成分（指的是宾语），则这个从句就一定是为定语从句。（找从句时可以根据v来找）（还有一种判断方法就是位于n后，且这个n不是为抽象n）
+（2）一个从句不仅把连词给删掉了，而且从句中不缺少成分，则这个从句就一定是宾语从句。
+
+翻译：
+He tells the fashion industry that（that引导宾语从句，宾语从句完整用that引导） it must take responsibility for the signal
+第1句：他告诉时尚界：它必须对信号负责。
+
+it sends women（定语从句，修饰signal，表示“信号的对象”（发给谁））, 【especially teenage girls】（插入语，用来补充说明前面的名词women，什么样的女性，相当于是在举例子）, 
+第2句：这个信号是传递给女性、尤其少女。
+
+about the social tape-measure（介词短语，不是修饰定从中的名词 women，而是修饰前面的名词signal，表示“信号的内容”（介词短语要么做状语，修饰v或者整个句子（特殊情况很少遇见修饰adj），要么做定语，修饰n））
+第3句：这个信号关于：社会标准。
+
+they must use to determine their individual worth.（定语从句，修饰社会标准“social tape-measure”）
+第4句：她们一定会用这种社会标准     决定自己的个人价值。
+
+
+逻辑点：
+（1）第1句和第2句是结果，第3句和第4句是原因。

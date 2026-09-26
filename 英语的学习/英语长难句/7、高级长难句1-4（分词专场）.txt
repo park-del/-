@@ -1,0 +1,159 @@
+分词类型：
+（1）现在分词 - ing ：主动。
+（2）过去分词 - ed  ：被动。
+
+
+
+分词功能：
+1、作定语（修饰n成分）
+In the years 【ending】（现在分词，做定语，修饰名词years，表示主动，即 10 years 主动结束） in 2009
+
+the books 【recommended】（过去分词，做定语，修饰books，表示被动，即 书被你推荐） by you
+
+
+
+2、替换定语从句
+分词替换定语从句技巧：将定语从句的连接词给删掉，看先行词（被定语从句给修饰的那个词）与定语从句中的v的关系，如果是主动的话，则就用 v-ing（现在分词）；如果是被动的话，则就用 v-ed（过去分词）。
+定语从句替换分词技巧： 首先看被分词所修饰的n（定语从句中的先行词）是为物体还是人，以及这个n在分词做什么成分，确定出定语从句的关系词------如果是为物体的话则定语从句的关系词可以用which（这个物体做主语，宾语），that（这个物体做主语，做宾语）；如果是为人的话则定语从句的先行词可以用who（这个人做主语），whom（这个人做宾语），that（这个人做主语，宾语）。然后由于定义从句为一个句子，就要考虑定语从句的时态，如果为过去式就将那个分词修改为过去式（即是将doing或done修改为done），同理，现在时和将来时也是一样的。
+
+I have a girlfriend 【who loves another man】.
+修改：删掉定从中的关系词“who”，先行词“girlfriend”，与“loves”是主动的关系，因此将“loves”改为“loving”。
+
+China is developing rapidly，【which makes Chinese popular】.
+修改：删掉定语从句中的关系词“which”，先行词为一个句子“China is developing rapidly”，与“makes”是主动的关系，因此将“makes”改为“making”。
+
+I love the book 【that is loved by you】.
+修改：删掉定语从句中的关系词“that”，先行词为“book”，与“loved”是被动关系，因此将“loved”改为“loved”。
+
+
+
+3、分词做状语（修饰v，修饰句子，修饰adj（很少情况会遇见））
+【United】（意思：团结起来），we will be safer.
+解析：United这个过去分词做条件状语，修饰后面的这个句子（即是为后面的这个句子的原因，后面的这个句子为结果）。
+
+
+I love the girl who loves another man，leading to a tragedy.
+解析：leading这个现在分词做结果状语，修饰前面的这个句子（即是为前面的这个句子的结果）
+
+
+4、替换状语从句
+
+技巧：
+①将状语从句中的连接词给删掉。
+②如果【状语从句中的主语】与【主句中的主语】【一致】的话，则就将状语从句中的主语给删掉；如果【状语从句中的主语】与【主句中的主语】【不一致】的话，则就将状语从句中的主语给保留。
+③观察 状语从句中的v 与 状语从句的主语 的关系，如果为主动的话则就将状语从句中的v修改为“v-ing”，如果为被动的话则就将状语从句中的v修改为“v-ed”。
+
+【While I was waiting for a bus】，I came across my girlfriend.
+修改：将状语从句中的连接词“While”给删掉；状语从句中的主语与主句中的主语一样，故删除掉状语从句中的主语；状语从句中的动词 waiting 与状语从句中的主语是主动的关系，故将其修改为 “waiting”。
+
+【As China develops】，we become richer.
+修改：状语从句中的连接词“as”给删掉；状语从句中的主语与主句中的主语不一样，因此保留状语从句中的主语“the China”；状语从句中的动词 develops 与状语从句中的主语“China”是主动的关系，故将其修改为 “developing”。最后修改为“The China developing”。
+
+总结：分词有两种形式，一种是ing，表示“主动”，一种是ed，表示“被动”。第1个功能就是做定语，修饰n；第2个就是做状语，修饰v或句子。因此，分词不仅可以替换定语从句也可以替换状语从句。
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+高级长难句1：
+
+In the 10 years ending in 2009, U. S. factories shed（意思：裁掉） workers so fast that they erased（意思：擦除，擦掉） almost all the gains（意思：新增的工作机会） of the previous 70 years.
+
+单词点：
+（1）表示“大约”的词汇总：
+about
+nearly
+around
+roughly
+approximately
+some 
+or so
+
+如：“some 100”“100 or so”都是表示“大约100”的意思。
+
+翻译：
+In the 10 years ending in 2009,（In引导的时间状语，表示主句发生的时间，其中，现在分词ending引导的短语“ending in 2009”修饰名词years）
+截止2009年的       10年中
+
+ U. S. factories shed（意思：裁掉） workers so fast（主干） 
+美国工厂裁员很快
+
+that they erased（意思：擦除，擦掉） almost all the gains（意思：新增的工作机会） of the previous 70 years.（结果状语从句）
+以至于/所以：工厂几乎抵消了			过去70年			新增的工作机会。
+
+
+思考点：“裁员”说明了技术更新了，说明了社会在进步。
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+高级长难句2：
+We 【tend to 】（意思：往往会，经常干）【think of】 the decades 【immediately following World War II】（意思：紧随二战后的） as 【a time】（这里的time为可数名词，将时间具体化了，表示“一段时间”） of prosperity and growth, with soldiers returning home 【by the millions】（意思：数以百万计）, going off to college 【on】（有两个意思，翻译为“关于”，翻译为“基于，依据”（后面为原因），具体翻译成哪个根据语境来决定） the 【G. I. Bill】（Bill意思：法案。这里为“《退伍军人安置法》”） 【and】（这里是为“returning”“going”“lining”3个在并列） lining up at the 【marriage bureaus（意思：部，局）】（意思：婚姻登记处）.
+
+语法点：
+（1）固定搭配：think of A as B。（这里的as相当于是“=”，即 A=B）
+
+三脱法分析句子主干：
+首先看有没有插入语，位于两个逗号之间的为“with soldiers returning home by the millions”，但是经过分析之后发现这里的returning是与后面的“going”“lining up”都是并列的，故不能删去；然后看介词短语，这里是为3个并列的with介词短语成分“with soldiers returning”“with soliders going off”“with soliders lining up”做状语的，故这3个都是可以划掉的，即划掉“with soldiers returning home by the millions，going off to college on the G. I. Bill and  【lining up】（意思：排队） at the marriage bureaus.”，of引导的“of prosperity and growth”划掉；然后看to do，没有to do，这里再补充一下，就是看分词（done 和 doing），分词位于n后作定语，分词做状语，都划掉，即此时就是看“to do”“doing”“done”；最后看从句，没有从句。最后分析出来的句子主干为“We tend to think of the decades as a time”。
+
+翻译：
+We tend to think of the decades immediately following World War II
+我们往往认为     紧随二战后的       几十年
+
+as a time of prosperity and growth,
+是    繁荣和增长的    时期，
+
+with soldiers（with引导的状语与主干同时发生，故with引导的做伴随状语）
+这期间，
+
+returning home by the millions,
+数百万士兵回家
+
+going off to college on the G. I. Bill
+依据《退伍军人安置法》上大学
+
+and  lining up at the marriage bureaus.
+在婚姻登记处     排队（结婚）
+
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+高级长难句3
+【Along with】（介词，意思：和） the many folks（意思：人们） 【looking to】（意思：指望） make a permanent home in the United States came those who had no intention to stay and those who would make some money and then go home.
+
+三脱法找主干：脱介词短语“along with the many folks”，脱非谓语“looking to make a permanent home”，脱介词短语“in the United States”，脱从句“those who had no intention to stay ”，脱从句“who would make some money and then go home”。
+
+主干为：came those and those。
+
+注意：第1个and前面为stay，后面为 those，不是并列的，故从句脱到stay为止。第2个and前面为make，后面为go，并列两个动词，故脱从句时前面和后面一并脱掉。
+
+语法点：
+（1）主语为“those who had no intention to stay and those who would make some money and then go home”，谓语为“came”，状语（伴随）为“along with the many folks looking to make a permanent home in the United States”，这里主语太长，所以进行了倒装。
+
+翻译：
+those who had no intention to stay
+and those who would make some money and then go home
+came
+along with the many folks
+looking to make a permanent home in the United States
+1）不想留下的人
+2）打算赚点钱就会故乡的人
+3）大量指望在美国永居的人
+4）一起来到美国
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、高级长难句4
+70% of us rate ourselves as above average in leadership, 93% in driving and 85% at getting on well with others —— all obviously statistical impossibilities.
+
+语法点：
+（1）这里“，”“and”应该是三个并列结构，省略了重复部分“ of us rate ourselves as above average”。
+
+
+翻译：
+70% of us rate ourselves as above average in leadership,
+93% of us rate ourselves as above average in driving
+and
+85% of us rate ourselves as above average at getting on well withr others
+
+我们当中
+分别有 70%、93%、85% 人 认为自己
+在领导力、驾驶、友好相处3个方面
+高于平均水平----这显然在统计学上不可能（概率很高）。

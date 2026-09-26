@@ -1,0 +1,141 @@
+
+                                                 What Robinhood and Apple Have in Common
+
+文化点：
+（1）罗宾汉（Robinhood）
+美国-金融服务企业
+以面向散户的股票app及网站著称（股票交易）
+服务全免费（没有手续费）
+交易股票，ETF，期权甚至加密货币（金融公司）
+服务主体：年轻投资者（济世）
+
+
+第1段段落解析：
+There's a curious thread（意思：线索、脉络；线程） connecting Robinhood, Facebook, Twitter, and Apple this year：【“ ：”表示进一步解释说明】The technology companies are starting to 【take active responsibility】（意思：积极主动承担责任） for what happens on their platforms（意思：它们平台上发生的事）.
+
+逻辑点：
+（1）开篇一句话（第一段只有一句话），则这句话通常就是主旨，用一句话概括一种社会现象和主题。（不是铺垫）
+（2）“有一条线”来将这4家公司给连接起来，说明了“这4家公司有共同点”，“ ：”就是起到解释说明“这4家公司的共同点的”。
+
+语法点：
+（1）“are starting to take active responsibility”表示“现在正在积极主动地去承担……”，暗含了一种“变化”，即过去它们不怎么承担这个责任。
+
+第1段总结：网络平台整治（发生的事情）。
+
+
+第2段段落解析：
+1. From Robinheod Markets Inc. deciding to limit trading of meme stocks,to Facebook lhc.and Twitter nc.banning then-President Trump's accounts, to Apple Ing,【rolling out】（意思：滚出去---->推出） tools that make it harder for app makers to hoover up user data from iPhones, the platform operators have taken steps that 【extend】（意思：延伸） 【beyond】（意思：超过） their legal obligations（它们所采取的步骤已经超出了它们的法定责任）.
+ 
+单词：
+meme	模因（反复模仿风格，网红）
+ban	禁止
+hoover up	扫除，清除 ；吸收
+obligation	义务，责任
+
+逻辑点：
+（1）又出现了这4家公司，以这4家公司为代表，此时是开始展开来说的，讲细节，即这4家公司到第是怎么整治的。
+
+语法点：
+（1）介词：介词放在be动词后面，即“be+prep”，则其就一定是主干，除此之外介词都是修饰成分，可以先划掉。
+
+
+2、It's an effort 【at accountability】 they have generally avoided.（意思：它是在责任方面的一种努力，它们过去到现在一直都想要去避开的一种责任）
+
+语法点：
+（1）accountability后面为省略了that的“定语从句”。
+（2）介词短语“at accountability”修饰“effort”，为“在责任方面的努力”。
+（3）“have generally avoided”为现在完成时，表示一种时态，即“从过去到现在一直都想要去避免的责任”。
+
+
+单词：
+accountability	n.责任、义务
+
+
+第2段段落总结：几大平台公司采取的行动。
+
+
+第3段段落解析：
+1. 【Each】（意思：代词，代指前面提到的每一个公司） has its own discrete 【reasons】 for doing so, of course.
+
+单词：
+discrete		a. 分散的、各自的
+
+2. Facebook and Twitter 【cracked down on】（整体看成谓语） Trump after his social media posts riled up the mob that stormed Capitol Hill.
+
+单词：
+crack down（+on + sb/sth）		镇压；严厉打击
+rile up				惹怒，激怒
+mob				暴徒，黑手党
+
+文化点：
+（1）Capitol Hill：美国国会山
+
+3. Apple, as was chronicled in last week's edition of this magazine（译为“正如在上周的杂志的版本中被记录下来的一样”，修饰成分，没啥用）, 【will make iPhone users opt in to sharing data with app makers】（make sb do sth，为“主+谓+宾+宾补”的结构，译为“苹果将要让手机的用户选择性加入共享数据和app开发者”）, rather than make 【them】（指代users） search for 【opt-out settings】（退出设定） 【deep in the bowels of the operating system】（后置定语，修饰settings，译为“深藏于操作系统内部的设定”）.
+
+语法点：
+（1）as引导的都是修饰成分，直接划掉不看，故这里的“as was chronicled in last week's edition of this magazine”直接划掉。
+
+理解点：
+（1）你下了一个软件app，会自动弹出“是否共享”，而不需要自己去找设置，来决定是否共享。
+
+单词：
+chornicle		按时间顺序记录
+opt		选择
+opt in to		选择加入
+bowel		肠子；内部
+opt-out		选择退出
+
+
+4. And Robinhood curtailed trading of GameStop, Express, Fossil Group, and  other stocks after its clearinghouse demanded higher cash deposits.
+
+考察点：
+（1）重复或者相似的句子，前面用了一个词，这里换成了另外的一个字，来考察你词汇储备量。对应第2段第1句中的“Robinhood deciding to limit”。
+
+单词：
+curtail		限制，削弱
+clearinghouse（不认识没关系）	票据交换所
+deposit		n. 存款，存款准备金
+
+
+
+第3段总结：各个平台采取措施的原因。
+
+
+
+第4段段落解析：
+1. The conceit of an online platform is that it's lttle more than a catalyst — connecting brands with customers, social media users with one another, and investors with stocks —【破折号，之间是插入语，划掉】 and does nothing to moderate those interactions.
+
+语法点：
+（1）主干为“The conceit is that it's【it指代前面的 an online platform】 little more than（litter就是否定，是委婉的no，little more than翻译为“仅仅”）a catalyst”，
+“and does nothing to moderate those interaction（这里是并列结构，与前面的从句并列，译为“在线平台仅仅是一个催化剂，在线平台不会做任何事来去缓和这些交流，冲突”）”。中间破折号里面的“— connecting brands with …… —”来解释催化剂是什么意思，就是什么样的催化剂。
+
+翻译：
+在线平台的自负之处 是 在线平台仅仅是一个催化剂（催化剂作用就是 把顾客和品牌联系在一起，把社交媒体用户彼此联系在一起，也把投资者和股票联系在了一起），在线平台不会做任何事来去缓和这些交流，冲突。
+
+
+
+逻辑点：
+（1）第1句是观点（主系表结构通常就是“下定义”或者给出一个明确的立场或观点的），第2句是举例子（有专业名词，即各个公司的名称，还有日期）
+（2）brands with customers, social media users with one another, and investors with stocks 依次就是“苹果、脸书和推特、罗宾汉”这四家公司。
+
+单词：
+conceit		自负，傲慢；幻想
+catalyst		催化剂
+moderate		v.调节，缓和   a.中等的，稳健的
+
+2. The reality has always been different: Apple since Day 1 has imposed somewhat opaque rules on what's allowed in its App Store, 【while】（表对比，不表转折，翻译为“在另一方面”） Facebook and Twitter are constantly scrambling to remove illegal content.
+
+单词：
+impose		强制实施
+opaque		模糊的、难懂的
+scramble		争夺、（艰难或仓促地）完成
+
+逻辑点：
+（1）since Day 1时间状语提前，在英语中“提前什么就是想强调什么”。
+
+语法点：
+（1）while在本句中不表示转折，而表示“对比”，可翻译为“在另一方面”。
+
+
+第4段总结：各大平台所做的努力。
+

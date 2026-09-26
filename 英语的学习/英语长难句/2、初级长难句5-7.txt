@@ -1,0 +1,96 @@
+ 
+
+初级长难句5：
+
+This breaks（n.休假/休息  vt.打破） the major（a.主要的） rule in the American belief system-that anyone can do anything.
+
+思考：
+that anyone can do anything是为一个什么从句？
+解答：“--”后面的为解释说明的作用，不做成分，那么就只能够是“定状同”三者中的一个，观察发现有“that”引导，且that在从句中不做成分，则that引导的应该是为一个同位语从句，既然是同位语的话，则“that anyone can do anything”就等于一个词，就近往前找，发现system，发现“system  != that anyone can do anything，因为翻译不顺”，这个词其实是为rule的，即“rule = that anyone can do anything”。
+
+“主要的”单词汇总：
+major、key、leading、prominent、dominant、primary、chief。
+
+写作技巧：
+（1）有多个修饰时，简单的修饰，如介词短语往前方，复杂的修饰，如从句往后放。
+
+翻译：
+This breaks rule in the American belief system
+这打破了美国人信仰体系中的主要原则
+
+---that anyone can do anything.
+该规则即：任何人能做任何事。
+
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+初级长难句6：
+
+如何翻译从句：把从句的连接词还原到从句空缺处，然后从左往右顺着进行翻译进行了。
+
+如：This is what I've always wanted to talk to you.（因为从句缺talk什么，从句缺的连接词补，为talk what to you，然后从左往右顺着进行翻译）
+       这就是我一直想要给你说的话。
+
+
+
+
+By watching what people search for, click on and say online,
+companies can aim“behavioural”ads at those 【most likely to buy】（修饰those）.
+
+三脱法：首先脱插入语，即“两个逗号之间的为修饰成分时”，但是本题中两个逗号之间的不是修饰成分，故本题中两个逗号之间的也就不是插入语，故本题中两个逗号之间的也就不能够脱掉；然后脱介词短语和to do，找介词，为 By、for、on、at、to，其中search for，click on，be likely to，aim A at B都是为固定搭配，都是不能够脱掉的，只能够脱掉介词 by watching sth，没有to do；接下来脱修饰性的从句，即位于n后的从句，没有。
+
+三种“de”：
+的+n
+地+v
+得+adj
+
+
+单词解决：
+search for :	搜索
+click on :		点击
+online : 		adv.在线地
+aim A  at B :	用A瞄准B            如：aim ads at those   用广告对准那些人
+
+ad:
+区分:  advertisement    具体的广告                   adversting    广告活动
+
+
+翻译技巧：
+By watching what people search for, click on and say online,
+通过 观察  人们  在网上  搜索什么、点击什么、表达什么
+companies can aim“behavioural”ads at those most likely to buy.
+公司能够将“行为”广告对准最可能购买的人。
+
+
+
+、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、、
+
+初级长难句7：
+
+语法点：
+主语+be（am，is，are，was，were）+done+（by）
+
+
+The Nobels were,【of course】（为了帮助理解，遇到 of course 的时候可以直接将其放在句首或者不翻译）,【themselves】（修饰Nobels ，诺贝尔奖本身） set up by a very rich individual who had decided what he wanted to do with his own money.
+
+三脱法找主干：首先脱插入语，脱掉of course（两个逗号之间的为修饰成分）；然后脱介词，注意表示被动语态的介词是不能够脱的，如本句子中的介词by就是不可以进行脱掉的，脱掉with his own money，然后脱to do，本题中没有；然后脱从句，脱表示修饰成分的从句，位于n后的从句，即是“who had decided sth，此时会将后面的what引导的宾从一并给脱掉”。
+
+
+翻译：
+Of course, 【the Nobels themselves were set up by a very rich individual】（被动语态，翻译为主动）
+当然，诺贝尔奖本身     是由一位富豪设立的
+【who had decided】（修饰individual） what he wanted to do（这里缺了，故连接词what补在这里） with his own money.
+这位富豪：已经决定了      他想要用他自己的钱 做什么.
+
+注意点：被动语句翻译的时候不要将其翻译成被动语态，要将其翻译成主动语态。
+
+
+培优提炼：
+I think that（宾语从句的that可以省略） "that" that（that，which引导，并且残缺成分，此时这个由that，which引导的这个句子就一定是为一个定语从句，这个定语从句修饰前面的n“that”） girl wrote on the board is wrong.
+
+转化：I think the "that" the girl wrote on the board is wrong.
+我认为这个女孩写在黑板.上的"that"是错的。
+
+
+万金油句子：that，which引导，并且残缺成分，此时这个由that，which引导的这个句子就一定是为一个定语从句。
