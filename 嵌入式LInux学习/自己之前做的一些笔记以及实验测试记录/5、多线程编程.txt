@@ -1,0 +1,81 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include "pthread.h"
+
+pthread_mutex_t suo;
+
+
+	
+//pthread_mutex_unlock(&b->lock);
+
+ 
+void * s1(void * data) 
+{ 
+    int i;
+    sleep(1); //延时1让s3先获得互斥锁，根据执行结果看到s1线程被阻塞
+    pthread_mutex_lock(&suo); //获得了互斥锁的线程是可以运行的，其他的线程都是会被阻塞的
+    
+//  pthread_mutex_t suo;
+    pthread_mutex_init(&suo,NULL);
+    for(i=0;i<100;i++)
+          {
+//    pthread_mutex_lock(&suo);
+      printf("11111\n");
+//    pthread_mutex_lock(&suo);
+            }
+/*
+总结：互斥锁有两种类型，一种是全局的，一种是局部的。
+.全局的互斥所是针对于所有的线程的，一旦有一个线程获得了这个互斥锁之后其他的所有线程都会被阻塞。
+ 
+全局互斥锁存在的问题：
+在一个while(1)循环中写下 pthread_mutex_init(&suo,NULL);上锁的语句发现会当前获得了这个互斥锁的线程也是会被阻塞的。
+答：一个线程在两次获得这个互斥锁时该线程也是会被阻塞的，此时由于这是一个全局的互斥锁的，其他的线程也是会被阻塞的。故如果是有一个循环的话，为了避免获得两次这个互斥锁，一般是把这个互斥锁写在这个循环的外面，此时就是单独执行某一个线程（将一段语句放在上锁语句与解锁语句之间）。
+
+在两个线程中使用了pthread_mutex_init(&suo,NULL)，其中每一个线程各使用一次，由于这个互斥锁是为全局互斥锁的，此时最先获得互斥锁的那个线程会阻塞其他线程（一定是会有一个先获得那个互斥锁的），故在多个线程中使用全局互斥锁（一个线程只使用一次）是不存在获得了两次互斥锁的情况（一个线程获得互斥锁后就会阻塞其他的线程不让其他的线程获得互斥锁）。
+
+
+局部互斥锁的说明：
+在一个线程的内部定义的互斥锁是为一个局部互斥锁的，局部互斥锁只是被该线程所拥有，该线程获得了这个局部互斥锁后并不会阻塞其他的线程的，但是在这个线程中使用了两次这个局部互斥锁的话，该线程也是会被阻塞的。自己通过局部互斥锁被阻塞后 必须要自己才能解锁，因此造成了一种死循环，一般是不用局部互斥锁的，但是在一个线程的内部又创建了多个线程的时候则是可以用这个局部互斥锁来协调这多个线程的而由于不影响这个线程外的其他线程。
+
+
+总结：多线程编程的一种技巧
+可以使用while(1) ｛ if(m==) break；｝ 的方式来进行多线程编程，即是一个线程执行到某处时可以使用这个语句来进行阻塞，当另一个线程执行到某一个地方时对全局标志为置位使这个线程退出这个循环，相当于实现了一个线程在执行到某一个地方是利用while(1) ｛ if(m==) break；｝语句停下来，等到另一个线程执行到某个地方对标志位进行置位后该现程才从这个地方开始执行。
+使用这种方法当两个或者多个线程中的条件都是为while(1) ｛ if(m==) break；｝的话，则在一个线程中对标志位进行赋值可以同时来唤醒这两个或者多个线程（相当于是使用了两个或者多个互斥锁）。
+*/
+}
+
+void * s2(void * data) 
+{
+int i;
+   for(i=0;i<100;i++)
+           {
+     printf("22222\n");
+            }
+}
+
+void * s3(void * data) 
+{
+     int i;
+     pthread_mutex_lock(&suo); 
+     sleep(2);  //延时2观察是否会执行下面的，会执行说明了
+     for(i=0;i<100;i++)
+         printf("33333\n");
+}
+
+int main(void)
+{
+  	pthread_t th_a, th_b,th_c;  //定义了3个线程
+  	void * retval;
+
+               pthread_mutex_init(&suo,NULL);
+ 	pthread_create(&th_a, NULL, s1, 0);      
+  	pthread_create(&th_b, NULL, s2, 0);
+	pthread_create(&th_c, NULL, s3, 0);
+
+  	pthread_join(th_a, &retval);   
+ // 	pthread_join(th_b, &retval);
+//	pthread_join(th_c, &retval);
+
+  	return 0;
+}

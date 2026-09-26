@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: client - 副本 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\86185\AppData\Local\Temp\RSP22D0.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/client - 副本.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\大三上学习文件\嵌入式linux应用程序开发\6、socket网络通信编程\1个服务器与1个客户端相互发送与接收数据\client - 副本.c"
+]
+Creating command line "cl.exe @C:\Users\86185\AppData\Local\Temp\RSP22D0.tmp" 
+<h3>Output Window</h3>
+Compiling...
+client - 副本.c
+d:\大三上学习文件\嵌入式linux应用程序开发\6、socket网络通信编程\1个服务器与1个客户端相互发送与接收数据\client - 副本.c(17) : error C2106: '=' : left operand must be l-value
+d:\大三上学习文件\嵌入式linux应用程序开发\6、socket网络通信编程\1个服务器与1个客户端相互发送与接收数据\client - 副本.c(17) : warning C4550: expression evaluates to a function which is missing an argument list
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+client - 副本.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
