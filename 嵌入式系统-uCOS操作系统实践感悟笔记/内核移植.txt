@@ -1,0 +1,32 @@
+GPIO输出-使用固件库点亮LED
+
+uCOS III源码下面的文件夹中有4个文件夹，分别是为EvalBoards、uC-CPU、uC-LIB、uCOS-III。
+
+EvalBoards文件夹需要进行的操作：
+<1>在工程项目下的“User”文件夹下新建一个APP文件夹，将9个文件文件拷贝到APP文件夹下。
+<2>将“EvalBoards\Micrium\uC-Eval-STM32F107\BSP”路径下的 bsp.c、bsp.h 文件拷贝到
+我们工程中的 User\BSP 文件夹下。
+
+EvalBoards文件夹：
+<1>
+<2>
+
+
+uC-CPU文件夹需要进行的操作：
+<1>cpu_c.h文件：包含了对一些数据类型的定义。
+<2>cpu_c.c文件：存放一些c函数，包含了一些CPU架构相关的代码。
+<3>cpu_a.asm文件：存放汇编代码，一些代码是只能用汇编来实现的，如一些开关中断。
+
+<4>cpu_core.c文件：
+<5>cpu_core.h文件：对 cpu_core.c 文件里面一些函数的说明，以及一些时间戳相关等待定义。
+<6>cpu_def.h文件：包含 CPU 相关的一些宏定义，常量，利用#define 进行定义的相关信息。
+
+uCOS-III文件夹需要进行的操作：
+
+<1>os_cpu.h：定义数据类型、处理器相关代码、声明函数原型。
+<2>oc_cpu_a.asm:与处理器相关的汇编代码，主要是与任务切换相关。
+<3>os_cpu_c.c：
+
+
+<4>uCOS-III里面的Source文件夹里面所有的文件。
+<5>将uC-CPU、uC-LIB、uCOS-III这3个文件夹拷贝到工程中的User文件夹下，然后进行移植。
