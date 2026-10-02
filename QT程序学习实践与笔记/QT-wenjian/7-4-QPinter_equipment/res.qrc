@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photo/cardinal.png</file>
+        <file>photo/chicken.png</file>
+        <file>photo/chihuahua.png</file>
+        <file>photo/jellyfish.png</file>
+        <file>photo/lobster.png</file>
+        <file>photo/pony.png</file>
+        <file>photo/tongtu.gif</file>
+        <file>photo/tropical-fish.png</file>
+        <file>photo/turtle.png</file>
+    </qresource>
+</RCC>
