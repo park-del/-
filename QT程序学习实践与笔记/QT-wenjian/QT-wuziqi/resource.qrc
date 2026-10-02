@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/res">
+        <file>sound/chessone.wav</file>
+        <file>sound/lose.wav</file>
+        <file>sound/win.wav</file>
+        <file>cardinal.png</file>
+        <file>chicken.png</file>
+        <file>chihuahua.png</file>
+        <file>jellyfish.png</file>
+        <file>lobster.png</file>
+        <file>adf.jpg</file>
+        <file>background.jpg</file>
+        <file>tubiao.jpg</file>
+    </qresource>
+</RCC>
