@@ -1,0 +1,18 @@
+#ifndef STUDENT_H
+#define STUDENT_H
+
+#include <QObject>
+
+class Student : public QObject
+{
+    Q_OBJECT
+public:
+    explicit Student(QObject *parent = nullptr);
+
+signals:
+
+public slots:
+    void treat();                  //槽函数treat()的声明
+    void treat(QString foodname);  //对槽函数treat()的重载
+};
+#endif // STUDENT_H
